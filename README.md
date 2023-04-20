@@ -53,10 +53,10 @@
 - Data used include players' stats, such as height, age, etc, and players' past transaction values.
 
 ## Video Presentation
-- This contains our video presentation.
+- This folder contains our video presentation.
 
 ## Slides
-- This contains our slides for our project.
+- This folder contains our slides for our project.
 
 # Contributors
 - Ang Kai Jun
