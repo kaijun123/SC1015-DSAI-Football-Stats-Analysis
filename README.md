@@ -49,8 +49,9 @@
 - Using these 2 metrics, we trained our model using these 2 metrics: `Plus-Minus Per Min` and `Player Rankings`, to identify the worst performing player in the team in a particular season.
 
 ## Player_Valuation
-- This segment contains code to predict a player's valuation.
-- Data used include players' stats, such as height, age, etc, and players' past transaction values.
+- This segment contains code to predict a player's `Current Valuation`.
+- Data used include `Players' Stats`, such as height, age, etc, and `Players' Past Transaction Amount`.
+- Using these 2 collection of data, we trained our model to be able to predict a player's `Current Valuation`, based on the player's current stats.
 
 ## Video Presentation
 - This folder contains our video presentation.
