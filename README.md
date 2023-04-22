@@ -36,11 +36,11 @@
 
 # Current Problems
 -Poor Business Management
--- Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management
+  - Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management
 -Managerial Instability
---After the retirement of Sir Alex Ferguson in 2013, the club has gone through several managers who have struggled to replicate his success.
+  -After the retirement of Sir Alex Ferguson in 2013, the club has gone through several managers who have struggled to replicate his success.
 -Poor transfer policy
---Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players
+  -Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players
 
 
 # Problem Statement
