@@ -38,8 +38,8 @@
 
 # Approach
 - We will be using a 2 pronged Data Science Oriented approach to improve Manchester United's team performance
- - Doing anomaly detection on their entire squad over the past season to determine underperforming players to sell
- - Doing player valuation on potential transfer targets to avoid overpaying in the transfer market
+   - Doing anomaly detection on their entire squad over the past season to determine underperforming players to sell
+   - Doing player valuation on potential transfer targets to avoid overpaying in the transfer market
 - The additonal revenue earned can then be used to improve club facilities or improve the quality of coaching/services provided to the players with the assumption that better facilites and coaching can improve a team's performance
 
 # Introduction to code base
