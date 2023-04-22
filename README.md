@@ -33,11 +33,12 @@
 └── Slides
 ```
 # Problem Statement
-How can Manchester United better optimise its transfer strategy to improve the team performance?
+- How can Manchester United better optimise its transfer strategy to improve the team performance?
 
 
 # Approach
-
+- We will be using a 2 pronged approach to improve Manchester United's team performance
+- - Hi
 
 # Introduction to code base
 
