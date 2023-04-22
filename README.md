@@ -7,7 +7,7 @@
 - [Approach](#Approach)
 - [Introduction to code](#Introduction-to-code)
   * [Anomaly_Detection](#Anomaly_Detection)
-  * [Player Reflection](#Player_Valuation)
+  * [Player_Reflection](#Player_Valuation)
   * [Video Presentation](#Video-Presentation)
   * [Slides](#Slides)
 - [Contributors](#Contributors)
@@ -17,18 +17,14 @@
 .
 ├── README.md
 ├── Anomaly_Detection
-│   ├── fbref_data                      # Data from Fbref
-│   ├── sofifa_data                     # Data from Sofifa
-│   ├── FbRef Data Scraping.ipynb       # Notebook to scrape data from FbRef
-│   ├── FbRef Data Processing.ipynb     # Notebook to process FbRef data
-│   └── 
+│   ├── data
+│   |    ├── fbref_data                 # Data from Fbref
+│   |    └── sofifa_data                # Data from Sofifa
+│   └── anomaly_detection.ipynb         # Notebook for anomaly detection
 │
 ├── Player_Valuation
 │   ├── Data                            # Data from Fbref and collated data from kaggle
-│   ├── player_valuation.ipynb          # Notebook to scrape and process player valuation
-│   ├── 
-│   ├── 
-│   └── 
+│   └── player_valuation.ipynb          # Notebook for player valuation
 │
 ├── Video Presentation
 └── Slides
@@ -78,6 +74,6 @@
 - This folder contains our slides for our project.
 
 # Contributors
-- Ang Kai Jun
-- Chay Hui Xiang
-- Ivan Loke Zhi Hao
+- Ang Kai Jun - Data Scraping (Anomaly Detection), Gradient Boosting
+- Chay Hui Xiang - Artificial Neural Network, Isolation Forest, One Class Support Vector Machine,  SGD One Class Support Vector Machine, Deep autoencoder
+- Ivan Loke Zhi Hao - Data Scraping (Player Valuation), Random Forest Regressor, Support Vector Regressor
