@@ -14,8 +14,8 @@
 - [Introduction to Codebase 🖥️](#introduction-to-codebase-️)
     - [Anomaly\_Detection](#anomaly_detection)
     - [Player\_Valuation](#player_valuation)
-  - [Video Presentation](#video-presentation)
-  - [Slides](#slides)
+    - [Video Presentation](#video-presentation)
+    - [Slides](#slides)
 - [Contributors](#contributors)
 
 # Repository Structure 🧬
@@ -86,10 +86,10 @@ The additonal revenue earned can then be used to improve club facilities or impr
 - Using these 2 collection of data, we trained each model to be able to predict a player's `Current Valuation`, based on the player's current stats.
 - Calcuated evaluation matrix's for each model such as RMSE, MAE and R^2
 
-## Video Presentation
+### Video Presentation
 - This folder contains our video presentation.
 
-## Slides
+### Slides
 - This folder contains our slides for our project.
 
 # Contributors
