@@ -1,0 +1,28 @@
+,Season,Name,Age,Age_Squared,Min,Height,Position,Aerial_duels_per90,Assists_per90,Goals_per90,League,Squad,country_of_citizenship,foot
+0,2021-2022,David de Gea,30,900,3420,192cm, GK,0.210526316,0,0,1. Premier League,Manchester Utd,Spain,Right
+1,2021-2022,Harry Maguire,28,784,2515,188cm," DF (CB, left)",2.688172043,0,0.04,1. Premier League,Manchester Utd,England,Right
+2,2021-2022,Scott McTominay,24,576,2387,192cm," MF (DM, right)",2.528301887,0.04,0.04,1. Premier League,Manchester Utd,Scotland,Right
+3,2021-2022,Cristiano Ronaldo,36,1296,2456,187cm, FW-MF (WM),1.538461538,0.11,0.66,1. Premier League,Manchester Utd,Portugal,Right
+4,2021-2022,Jadon Sancho,21,441,1900,180cm, FW-MF (AM),0.09478673,0.14,0.14,1. Premier League,Manchester Utd,England,Right
+5,2021-2022,Raphaël Varane,28,784,1831,194cm," DF-MF (CB-DM, right)",2.709359606,0.05,0.05,1. Premier League,Manchester Utd,France,Both
+6,2021-2022,Aaron Wan-Bissaka,23,529,1793,182cm," DF (FB, right)",0.954773869,0,0,1. Premier League,Manchester Utd,England,Right
+7,2021-2022,Diogo Dalot,22,484,1801,184cm," DF (FB, right)",1.45,0,0,1. Premier League,Manchester Utd,Portugal,Right
+8,2021-2022,Luke Shaw,26,676,1601,185cm," DF-MF (FB-WM, left)",1.123595506,0.17,0,1. Premier League,Manchester Utd,England,Left
+9,2021-2022,Alex Telles,28,784,1660,181cm," DF (FB, left)",1.630434783,0.22,0,1. Premier League,Manchester Utd,Brazil,Left
+10,2021-2022,Nemanja Matić,32,1024,1382,194cm, MF (CM-DM),1.818181818,0.26,0,1. Premier League,Manchester Utd,Serbia,Left
+11,2021-2022,Paul Pogba,28,784,1349,191cm, MF (CM-DM-WM),2.333333333,0.6,0.07,1. Premier League,Manchester Utd,France,Right
+12,2021-2022,Mason Greenwood,19,361,1271,181cm, FW-MF (AM),0.283687943,0.07,0.35,1. Premier League,Manchester Utd,England,Left
+13,2021-2022,Anthony Elanga,19,361,1214,178cm, FW-MF,1.777777778,0.15,0.15,1. Premier League,Manchester Utd,Sweden,Right
+14,2021-2022,Marcus Rashford,23,529,1235,180cm, FW-MF (AM),0.729927007,0.15,0.29,1. Premier League,Manchester Utd,England,Right
+15,2021-2022,Jesse Lingard,28,784,367,174cm, FW-MF (AM),0,0,0.49,1. Premier League,Manchester Utd,England,Right
+16,2021-2022,Anthony Martial,25,625,212,184cm, FW-MF (AM),2.777777778,0,0.42,1. Premier League,Manchester Utd,France,Right
+17,2021-2022,Hannibal Mejbri,18,324,68,154cm, MF,0,0,0,1. Premier League,Manchester Utd,Tunisia,Right
+18,2021-2022,Donny van de Beek,24,576,558,181cm, MF (CM),2.546296296,0,1.39,1. Premier League,Manchester Utd,Netherlands,Right
+19,2021-2022,Shola Shoretire,17,289,16,166cm, MF,0,0,0,1. Premier League,Manchester Utd,England,Right
+20,2021-2022,Alejandro Garnacho,17,289,13,180cm, FW,0,0,0,1. Premier League,Manchester Utd,Spain,Right
+21,2021-2022,Bruno Fernandes,26,676,3111,173cm, FW-MF (AM-CM),0.549132948,0.17,0.29,1. Premier League,Manchester Utd,Portugal,Right
+22,2021-2022,Fred,28,784,2028,169cm, FW-MF (AM-DM),0.666666667,0.18,0.18,1. Premier League,Manchester Utd,Brazil,Left
+23,2021-2022,Edinson Cavani,34,1156,766,184cm, FW-MF (WM),0.823529412,0.12,0.23,1. Premier League,Manchester Utd,Uruguay,Right
+24,2021-2022,Eric Bailly,27,729,217,187cm," DF (CB, right)",2.5,0,0,1. Premier League,Manchester Utd,Ivory Coast,Right
+25,2021-2022,Juan Mata,33,1089,235,170cm, FW-MF (AM-WM),0,0,0,1. Premier League,Manchester Utd,Spain,Left
+26,2021-2022,Daniel James,23,529,2492,179cm, FW-MF (AM),1.208582292,0.15,0.15,1. Premier League,Leeds United,Wales,Right
