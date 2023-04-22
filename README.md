@@ -16,7 +16,7 @@
     - [Player\_Valuation](#player_valuation)
     - [Video Presentation](#video-presentation)
     - [Slides](#slides)
-- [Contributors](#contributors)
+- [Contributors 👨‍💻](#contributors-)
 
 # Repository Structure 🧬
 ```bash
@@ -92,7 +92,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 ### Slides
 - This folder contains our slides for our project.
 
-# Contributors
+# Contributors 👨‍💻
 
 |<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/96715775?v=4" height='80' /></kbd><br/>Ang Kai Jun</div>|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/75465219?s=400&u=210359b21d09a29b6265e3c5fb004e148abbc055&v=4" height='80' /></kbd><br/>Chay Hui Xiang</div>|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/102502850?v=4" height='80' /></kbd><br/>Ivan Loke Zhi Hao</div>
 |-----|-----|-----|
