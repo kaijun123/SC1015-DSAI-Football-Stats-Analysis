@@ -67,7 +67,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 # Introduction to Codebase 🖥️
 
 <div align='center'>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=This%20Project's%20Tech%20Stack&lineCount=3&theme=github_dark&line1=python,python,auto;tensorflow,tensorflow,auto;&line2=pandas,pandas,auto;numpy,numpy,auto;scikitlearn,scikit%20learn,auto;&line3=git,git,auto;github,github,auto;jupyter,jupyter,auto;googlecolab,colab,auto;" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=This%20Project's%20Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,python,auto;tensorflow,tensorflow,auto;&line2=pandas,pandas,auto;numpy,numpy,auto;scikitlearn,scikit%20learn,auto;&line3=git,git,auto;github,github,auto;jupyter,jupyter,auto;googlecolab,colab,auto;" alt="My Tech Stack" />
 </div>
 
 ### Anomaly_Detection
