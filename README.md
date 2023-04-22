@@ -40,13 +40,13 @@
 # Current Problems 🤔
 ### **1. Poor Business Management**
 
-Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management
+Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management.
 
 ### **2. Managerial Instability**
 After the retirement of Sir Alex Ferguson in 2013, the club has gone through several managers who have struggled to replicate his success.
 
 ### **3. Poor transfer policy**
-Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players
+Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players.
 
 # Problem Statement 🚨
 
@@ -94,6 +94,6 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 # Contributors 👨‍💻
 
-|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/96715775?v=4" height='80' /></kbd><br/>Ang Kai Jun</div>|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/75465219?s=400&u=210359b21d09a29b6265e3c5fb004e148abbc055&v=4" height='80' /></kbd><br/>Chay Hui Xiang</div>|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/102502850?v=4" height='80' /></kbd><br/>Ivan Loke Zhi Hao</div>
+|<a href="https://github.com/kaijun123"><div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/96715775?v=4" height='80' /></kbd><br/>Ang Kai Jun</div></a>|<a href="https://github.com/chayhuixiang"><div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/75465219?s=400&u=210359b21d09a29b6265e3c5fb004e148abbc055&v=4" height='80' /></kbd><br/>Chay Hui Xiang</div></a>|<a href="https://github.com/IvanLoke"><div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/102502850?v=4" height='80' /></kbd><br/>Ivan Loke Zhi Hao</div></a>
 |-----|-----|-----|
 |<div align='center'>Data Scraping (Anomaly Detection), Gradient Boosting</div>|<div align='center'>Artificial Neural Network, Isolation Forest, One Class Support Vector Machine, SGD One Class Support Vector Machine, Deep AutoEncoder</div>|<div align='center'>Data Scraping (Player Valuation), Random Forest Regressor, Support Vector Regressor</div>
