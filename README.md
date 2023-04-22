@@ -1,18 +1,24 @@
-# SC1015 Data Science and Analytics
+# SC1015 Data Science and Analytics Project - Football Analytics ⚽
 
-# Table of Content
-- [Repo Structure](#Repo-Structure)
-- [Current Problems](#Current-Problems)
-- [Problem Statement](#Problem-Statement)
-- [Approach](#Approach)
-- [Introduction to code](#Introduction-to-code)
-  * [Anomaly_Detection](#Anomaly_Detection)
-  * [Player_Reflection](#Player_Valuation)
-  * [Video Presentation](#Video-Presentation)
-  * [Slides](#Slides)
-- [Contributors](#Contributors)
+![Cover](Assets/cover.png)
+# Table of Contents 🛎️
+- [SC1015 Data Science and Analytics Project - Football Analytics ⚽](#sc1015-data-science-and-analytics-project---football-analytics-)
+- [Table of Contents 🛎️](#table-of-contents-️)
+- [Repository Structure 🧬](#repository-structure-)
+- [Current Problems 🤔](#current-problems-)
+    - [**1. Poor Business Management**](#1-poor-business-management)
+    - [**2. Managerial Instability**](#2-managerial-instability)
+    - [**3. Poor transfer policy**](#3-poor-transfer-policy)
+- [Problem Statement 🚨](#problem-statement-)
+- [Approach ⚙️](#approach-️)
+- [Introduction to Codebase 🖥️](#introduction-to-codebase-️)
+    - [Anomaly\_Detection](#anomaly_detection)
+    - [Player\_Valuation](#player_valuation)
+  - [Video Presentation](#video-presentation)
+  - [Slides](#slides)
+- [Contributors](#contributors)
 
-# Repo Structure
+# Repository Structure 🧬
 ```bash
 .
 ├── README.md
@@ -28,30 +34,39 @@
 │
 ├── Video Presentation
 └── Slides
+└── Assets
 ```
 
-# Current Problems
-- Poor Business Management
-  - Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management
-- Managerial Instability
-  - After the retirement of Sir Alex Ferguson in 2013, the club has gone through several managers who have struggled to replicate his success.
-- Poor transfer policy
-  - Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players
+# Current Problems 🤔
+### **1. Poor Business Management**
+
+Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management
+
+### **2. Managerial Instability**
+After the retirement of Sir Alex Ferguson in 2013, the club has gone through several managers who have struggled to replicate his success.
+
+### **3. Poor transfer policy**
+Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players
+
+# Problem Statement 🚨
+
+<blockquote align='center'> 
+<h3>How can Manchester United better optimise its transfer strategy to improve the team's performance?</h3>
+</blockquote>
+
+# Approach ⚙️
+We will be using a **2-pronged Data Science Oriented approach** to improve Manchester United's team performance.
+
+1. Doing *anomaly detection* on their entire squad over the past season to determine underperforming players to sell
 
 
-# Problem Statement
-- How can Manchester United better optimise its transfer strategy to improve the team performance?
+2. Doing *player valuation estimations* on potential transfer targets to avoid overpaying in the transfer market
 
+The additonal revenue earned can then be used to improve club facilities or improve the quality of coaching/services provided to the players with the assumption that better facilites and coaching can improve a team's performance.
 
-# Approach
-- We will be using a 2 pronged Data Science Oriented approach to improve Manchester United's team performance
-   - Doing anomaly detection on their entire squad over the past season to determine underperforming players to sell
-   - Doing player valuation on potential transfer targets to avoid overpaying in the transfer market
-- The additonal revenue earned can then be used to improve club facilities or improve the quality of coaching/services provided to the players with the assumption that better facilites and coaching can improve a team's performance
+# Introduction to Codebase 🖥️
 
-# Introduction to code base
-
-## Anomaly_Detection
+### Anomaly_Detection
 - This segment contains code to identify the worst performing players within the team per season.
 - Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [Sofifa](https://sofifa.com/)
 - Using data from FbRef, we calculated the `Plus-Minus Per Min`. The formula is given as follows: 
@@ -59,7 +74,7 @@
 - Using the data from Sofifa, we obtained the `Player Rankings`.
 - Using these 2 metrics, we trained our model using these 2 metrics: `Plus-Minus Per Min` and `Player Rankings`, to identify the worst performing player in the team in a particular season.
 
-## Player_Valuation
+### Player_Valuation
 - This segment contains code to predict a player's `Current Valuation`.
 - Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
 - Data used include `Players' Stats`, such as height, age, etc, and `Players' Past Transaction Amount`.
@@ -74,6 +89,7 @@
 - This folder contains our slides for our project.
 
 # Contributors
-- Ang Kai Jun - Data Scraping (Anomaly Detection), Gradient Boosting
-- Chay Hui Xiang - Artificial Neural Network, Isolation Forest, One Class Support Vector Machine,  SGD One Class Support Vector Machine, Deep autoencoder
-- Ivan Loke Zhi Hao - Data Scraping (Player Valuation), Random Forest Regressor, Support Vector Regressor
+
+|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/96715775?v=4" height='80' /></kbd><br/>Ang Kai Jun</div>|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/75465219?s=400&u=210359b21d09a29b6265e3c5fb004e148abbc055&v=4" height='80' /></kbd><br/>Chay Hui Xiang</div>|<div align='center'><kbd><img src="https://avatars.githubusercontent.com/u/102502850?v=4" height='80' /></kbd><br/>Ivan Loke Zhi Hao</div>
+|-----|-----|-----|
+|<div align='center'>Data Scraping (Anomaly Detection), Gradient Boosting</div>|<div align='center'>Artificial Neural Network, Isolation Forest, One Class Support Vector Machine, SGD One Class Support Vector Machine, Deep AutoEncoder</div>|<div align='center'>Data Scraping (Player Valuation), Random Forest Regressor, Support Vector Regressor</div>
