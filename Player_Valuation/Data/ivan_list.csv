@@ -1,0 +1,585 @@
+,Season,Name,Age,Age_Squared,Min,Height,Position,Aerial_duels_per90,Assists_per90,Goals_per90,League,Squad
+0,2019-2020,Enda Stevens,29,841,3345.0,183cm," DF-MF (DM-FB-WM, left)",0.8333333333333333,0.11,0.05,1. Premier League,Sheffield Utd
+1,2020-2021,Enda Stevens,30,900,2700.0,183cm," DF-MF (DM-FB-WM, left)",1.1666666666666667,0.03,0.0,1. Premier League,Sheffield Utd
+0,2017-2018,Joe Allen,27,729,3139.0,168cm, MF (CM-DM-WM),1.0315186246418337,0.17,0.06,1. Premier League,Stoke City
+0,2019-2020,Daniel Podence,23,529,289.0,165cm, FW-MF (AM-WM),0.0,0.0,0.31,1. Premier League,Wolves
+1,2020-2021,Daniel Podence,24,576,1661.0,165cm, FW-MF (AM-WM),0.3783783783783784,0.11,0.16,1. Premier League,Wolves
+2,2021-2022,Daniel Podence,25,625,1484.0,165cm, FW-MF (AM-WM),0.12121212121212122,0.18,0.12,1. Premier League,Wolves
+3,2022-2023,Daniel Podence,26,676,1616.0,165cm, FW-MF (AM-WM),0.3333333333333333,0.0,0.33,1. Premier League,Wolves
+0,2017-2018,Alex McCarthy,27,729,1620.0,193cm, GK,0.5555555555555556,0.0,0.0,1. Premier League,Southampton
+1,2018-2019,Alex McCarthy,28,784,2250.0,193cm, GK,0.64,0.0,0.0,1. Premier League,Southampton
+2,2019-2020,Alex McCarthy,29,841,2520.0,193cm, GK,0.5714285714285714,0.0,0.0,1. Premier League,Southampton
+3,2020-2021,Alex McCarthy,30,900,2700.0,193cm, GK,0.13333333333333333,0.0,0.0,1. Premier League,Southampton
+4,2021-2022,Alex McCarthy,31,961,1530.0,193cm, GK,0.35294117647058826,0.0,0.0,1. Premier League,Southampton
+0,2020-2021,Alphonse Areola,27,729,3240.0,192cm, GK,0.3611111111111111,0.0,0.0,1. Premier League,Fulham
+1,2021-2022,Alphonse Areola,28,784,90.0,192cm, GK,0.0,0.0,0.0,1. Premier League,West Ham
+2,2022-2023,Alphonse Areola,29,841,309.0,192cm, GK,0.0,0.0,0.0,1. Premier League,West Ham
+0,2020-2021,Patrick Bamford,26,676,3050.0,188cm, FW-MF (WM),1.3864306784660767,0.21,0.5,1. Premier League,Leeds United
+1,2021-2022,Patrick Bamford,27,729,559.0,188cm, FW-MF (WM),0.8064516129032258,0.32,0.32,1. Premier League,Leeds United
+2,2022-2023,Patrick Bamford,28,784,1129.0,188cm, FW-MF (WM),1.84,0.16,0.24,1. Premier League,Leeds United
+0,2017-2018,Cédric Soares,25,625,2794.0,169cm," DF-MF (FB, right)",0.967741935483871,0.1,0.0,1. Premier League,Southampton
+1,2018-2019,Cédric Soares,26,676,1495.0,169cm," DF-MF (FB, right)",2.704611549646863,0.12,0.06,1. Premier League,Southampton
+2,2019-2020,Cédric Soares,27,729,1555.0,169cm," DF-MF (FB, right)",1.9556650246305418,0.07,0.36,1. Premier League,Arsenal
+3,2020-2021,Cédric Soares,28,784,746.0,169cm," DF-MF (FB, right)",0.8433734939759036,0.12,0.0,1. Premier League,Arsenal
+4,2021-2022,Cédric Soares,29,841,1486.0,169cm," DF-MF (FB, right)",0.7272727272727273,0.06,0.06,1. Premier League,Arsenal
+5,2022-2023,Cédric Soares,30,900,114.0,169cm," DF-MF (FB, right)",2.2222222222222223,0.0,0.0,1. Premier League,Fulham
+0,2017-2018,Fernando Llorente,32,1024,238.0,195cm, FW,5.384615384615384,0.0,0.38,1. Premier League,Tottenham
+1,2018-2019,Fernando Llorente,33,1089,694.0,195cm, FW,6.883116883116883,0.52,0.13,1. Premier League,Tottenham
+0,2017-2018,Kiko Femenía,26,676,1713.0,174cm," DF-FW-MF (FB-WM, right)",0.5263157894736842,0.05,0.05,1. Premier League,Watford
+1,2018-2019,Kiko Femenía,27,729,2049.0,174cm," DF-FW-MF (FB-WM, right)",0.5263157894736842,0.04,0.04,1. Premier League,Watford
+2,2019-2020,Kiko Femenía,28,784,2237.0,174cm," DF-FW-MF (FB-WM, right)",0.5220883534136547,0.0,0.0,1. Premier League,Watford
+3,2021-2022,Kiko Femenía,30,900,2142.0,174cm," DF-FW-MF (FB-WM, right)",0.5042016806722689,0.21,0.0,1. Premier League,Watford
+0,2018-2019,Artur Boruc,38,1444,1080.0,193cm, GK,0.16666666666666666,0.0,0.0,1. Premier League,Bournemouth
+0,2019-2020,Ahmed Elmohamady,31,961,1031.0,182cm," DF-MF (FB-WM, right)",2.5217391304347827,0.09,0.09,1. Premier League,Aston Villa
+1,2020-2021,Ahmed Elmohamady,32,1024,839.0,182cm," DF-MF (FB-WM, right)",1.9354838709677418,0.0,0.0,1. Premier League,Aston Villa
+0,2017-2018,Davide Zappacosta,25,625,1098.0,182cm," DF-MF (FB-WM, right)",2.0566318926974665,0.08,0.08,1. Premier League,Chelsea
+1,2018-2019,Davide Zappacosta,26,676,128.0,182cm," DF-MF (FB-WM, right)",2.142857142857143,0.0,0.0,1. Premier League,Chelsea
+0,2018-2019,Diogo Jota,21,441,2355.0,178cm, FW-MF,1.0305343511450382,0.19,0.34,1. Premier League,Wolves
+1,2019-2020,Diogo Jota,22,484,2284.0,178cm, FW-MF,1.1023622047244095,0.04,0.28,1. Premier League,Wolves
+2,2020-2021,Diogo Jota,23,529,1112.0,178cm, FW-MF,1.129032258064516,0.0,0.73,1. Premier League,Liverpool
+3,2021-2022,Diogo Jota,24,576,2364.0,178cm, FW-MF,1.4068441064638784,0.15,0.57,1. Premier League,Liverpool
+4,2022-2023,Diogo Jota,25,625,750.0,178cm, FW-MF,1.4457831325301203,0.48,0.24,1. Premier League,Liverpool
+0,2017-2018,Danny Welbeck,26,676,1194.0,185cm, FW-MF (WM),1.7293233082706767,0.15,0.38,1. Premier League,Arsenal
+1,2018-2019,Danny Welbeck,27,729,153.0,185cm, FW-MF (WM),4.11764705882353,0.59,0.59,1. Premier League,Arsenal
+2,2019-2020,Danny Welbeck,28,784,822.0,185cm, FW-MF (WM),3.076923076923077,0.0,0.22,1. Premier League,Watford
+3,2020-2021,Danny Welbeck,29,841,1545.0,185cm, FW-MF (WM),1.2209302325581395,0.06,0.35,1. Premier League,Brighton
+4,2021-2022,Danny Welbeck,30,900,1478.0,185cm, FW-MF (WM),2.8658536585365857,0.12,0.37,1. Premier League,Brighton
+5,2022-2023,Danny Welbeck,31,961,1475.0,185cm, FW-MF (WM),1.707317073170732,0.12,0.24,1. Premier League,Brighton
+0,2021-2022,Raphaël Varane,28,784,1831.0,194cm," DF-MF (CB-DM, right)",2.70935960591133,0.05,0.05,1. Premier League,Manchester Utd
+1,2022-2023,Raphaël Varane,29,841,1651.0,194cm," DF-MF (CB-DM, right)",1.9672131147540983,0.0,0.0,1. Premier League,Manchester Utd
+0,2020-2021,Ezgjan Alioski,28,784,2461.0,172cm," DF-FW-MF (AM-FB, left)",1.4285714285714286,0.11,0.07,1. Premier League,Leeds United
+0,2018-2019,Nathaniel Mendez-Laing,26,676,985.0,178cm," FW-MF (AM-WM, right)",2.110091743119266,0.09,0.37,1. Premier League,Cardiff City
+0,2017-2018,Chris Smalling,27,729,2536.0,194cm, DF (CB),3.8297872340425534,0.0,0.14,1. Premier League,Manchester Utd
+1,2018-2019,Chris Smalling,28,784,2127.0,194cm, DF (CB),4.279661016949152,0.0,0.04,1. Premier League,Manchester Utd
+0,2018-2019,Romain Saïss,28,784,1149.0,190cm," DF-MF (CB-CM, left)",4.453125,0.0,0.16,1. Premier League,Wolves
+1,2019-2020,Romain Saïss,29,841,2705.0,190cm," DF-MF (CB-CM, left)",3.953488372093023,0.03,0.07,1. Premier League,Wolves
+2,2020-2021,Romain Saïss,30,900,2407.0,190cm," DF-MF (CB-CM, left)",2.659176029962547,0.0,0.11,1. Premier League,Wolves
+3,2021-2022,Romain Saïss,31,961,2705.0,190cm," DF-MF (CB-CM, left)",2.3920265780730894,0.0,0.07,1. Premier League,Wolves
+0,2017-2018,Patrick van Aanholt,26,676,2184.0,175cm," DF (FB, left)",0.24691358024691357,0.04,0.21,1. Premier League,Crystal Palace
+1,2018-2019,Patrick van Aanholt,27,729,3195.0,175cm," DF (FB, left)",0.28169014084507044,0.06,0.08,1. Premier League,Crystal Palace
+2,2019-2020,Patrick van Aanholt,28,784,2507.0,175cm," DF (FB, left)",0.5734767025089607,0.07,0.11,1. Premier League,Crystal Palace
+3,2020-2021,Patrick van Aanholt,29,841,1777.0,175cm," DF (FB, left)",0.5583756345177665,0.05,0.0,1. Premier League,Crystal Palace
+0,2017-2018,Tom Cleverley,27,729,1902.0,175cm, MF (CM),1.1374407582938388,0.09,0.05,1. Premier League,Watford
+1,2018-2019,Tom Cleverley,28,784,478.0,175cm, MF (CM),0.7547169811320755,0.0,0.19,1. Premier League,Watford
+2,2019-2020,Tom Cleverley,29,841,971.0,175cm, MF (CM),0.8333333333333333,0.0,0.09,1. Premier League,Watford
+3,2021-2022,Tom Cleverley,31,961,1616.0,175cm, MF (CM),0.7777777777777778,0.11,0.0,1. Premier League,Watford
+0,2020-2021,Mohammed Salisu,21,441,844.0,191cm," DF (CB, left)",2.234042553191489,0.0,0.0,1. Premier League,Southampton
+1,2021-2022,Mohammed Salisu,22,484,2972.0,191cm," DF (CB, left)",3.0606060606060606,0.0,0.0,1. Premier League,Southampton
+2,2022-2023,Mohammed Salisu,23,529,1973.0,191cm," DF (CB, left)",2.5114155251141552,0.05,0.0,1. Premier League,Southampton
+0,2017-2018,Vincent Kompany,31,961,1394.0,193cm, DF (CB),2.7096774193548385,0.06,0.06,1. Premier League,Manchester City
+1,2018-2019,Vincent Kompany,32,1024,1224.0,193cm, DF (CB),2.6470588235294117,0.0,0.07,1. Premier League,Manchester City
+0,2017-2018,Eddie Nketiah,18,324,20.0,175cm, FW,0.0,4.5,0.0,1. Premier League,Arsenal
+1,2018-2019,Eddie Nketiah,19,361,67.0,175cm, FW,0.0,0.0,1.34,1. Premier League,Arsenal
+2,2019-2020,Eddie Nketiah,20,400,633.0,175cm, FW,2.4035087719298245,0.0,0.28,1. Premier League,Arsenal
+3,2020-2021,Eddie Nketiah,21,441,423.0,175cm, FW,1.4893617021276595,0.21,0.43,1. Premier League,Arsenal
+4,2021-2022,Eddie Nketiah,22,484,835.0,175cm, FW,0.8602150537634408,0.11,0.54,1. Premier League,Arsenal
+5,2022-2023,Eddie Nketiah,23,529,1002.0,175cm, FW,0.9009009009009009,0.09,0.36,1. Premier League,Arsenal
+0,2020-2021,Bertrand Traoré,24,576,2317.0,177cm," FW-MF (AM-WM, right)",1.245136186770428,0.23,0.27,1. Premier League,Aston Villa
+1,2021-2022,Bertrand Traoré,25,625,220.0,177cm," FW-MF (AM-WM, right)",1.6666666666666667,0.0,0.0,1. Premier League,Aston Villa
+2,2022-2023,Bertrand Traoré,26,676,122.0,177cm," FW-MF (AM-WM, right)",0.7142857142857143,0.0,1.48,1. Premier League,Aston Villa
+0,2021-2022,Maxwel Cornet,24,576,1766.0,179cm, DF-FW-MF,1.2244897959183672,0.05,0.46,1. Premier League,Burnley
+1,2022-2023,Maxwel Cornet,25,625,129.0,179cm, DF-FW-MF,1.4285714285714286,0.0,0.0,1. Premier League,West Ham
+0,2018-2019,Joe Bryan,24,576,2345.0,170cm," DF-MF (FB, left)",3.187739463601533,0.04,0.0,1. Premier League,Fulham
+1,2020-2021,Joe Bryan,26,676,669.0,170cm," DF-MF (FB, left)",0.8108108108108107,0.0,0.13,1. Premier League,Fulham
+0,2019-2020,Mason Mount,20,400,2867.0,175cm, MF (AM-CM-WM),0.31347962382445144,0.16,0.22,1. Premier League,Chelsea
+1,2020-2021,Mason Mount,21,441,2890.0,175cm, MF (AM-CM-WM),0.6542056074766355,0.16,0.19,1. Premier League,Chelsea
+2,2021-2022,Mason Mount,22,484,2363.0,175cm, MF (AM-CM-WM),0.22813688212927757,0.38,0.42,1. Premier League,Chelsea
+3,2022-2023,Mason Mount,23,529,1648.0,175cm, MF (AM-CM-WM),0.4918032786885246,0.11,0.16,1. Premier League,Chelsea
+0,2017-2018,Kurt Zouma,22,484,2888.0,190cm, DF (CB),3.395638629283489,0.0,0.03,1. Premier League,Stoke City
+1,2018-2019,Kurt Zouma,23,529,2612.0,190cm, DF (CB),3.3793103448275863,0.07,0.07,1. Premier League,Everton
+2,2019-2020,Kurt Zouma,24,576,2344.0,190cm, DF (CB),4.038461538461538,0.0,0.0,1. Premier League,Chelsea
+3,2020-2021,Kurt Zouma,25,625,2029.0,190cm, DF (CB),3.7333333333333334,0.0,0.22,1. Premier League,Chelsea
+4,2021-2022,Kurt Zouma,26,676,2078.0,190cm, DF (CB),2.1645021645021645,0.0,0.04,1. Premier League,West Ham
+5,2022-2023,Kurt Zouma,27,729,1746.0,190cm, DF (CB),2.6288659793814433,0.0,0.1,1. Premier League,West Ham
+0,2021-2022,Saúl Ñíguez,26,676,480.0,181cm," DF-MF (CM-DM-WM, left)",4.236706689536878,0.0,0.0,1. Premier League,Chelsea
+0,2017-2018,Benjamin Mendy,23,529,363.0,186cm," DF (FB, left)",1.25,0.25,0.0,1. Premier League,Manchester City
+1,2018-2019,Benjamin Mendy,24,576,900.0,186cm," DF (FB, left)",0.8,0.5,0.0,1. Premier League,Manchester City
+2,2019-2020,Benjamin Mendy,25,625,1492.0,186cm," DF (FB, left)",0.9036144578313252,0.12,0.0,1. Premier League,Manchester City
+3,2020-2021,Benjamin Mendy,26,676,953.0,186cm," DF (FB, left)",0.7547169811320755,0.09,0.19,1. Premier League,Manchester City
+4,2021-2022,Benjamin Mendy,27,729,78.0,186cm," DF (FB, left)",0.0,0.0,0.0,1. Premier League,Manchester City
+0,2017-2018,Gary Cahill,31,961,2086.0,193cm, DF (CB),3.9224137931034484,0.0,0.0,1. Premier League,Chelsea
+1,2018-2019,Gary Cahill,32,1024,24.0,193cm, DF (CB),3.3333333333333335,0.0,0.0,1. Premier League,Chelsea
+2,2019-2020,Gary Cahill,33,1089,2167.0,193cm, DF (CB),3.485477178423236,0.04,0.0,1. Premier League,Crystal Palace
+3,2020-2021,Gary Cahill,34,1156,1800.0,193cm, DF (CB),3.45,0.05,0.05,1. Premier League,Crystal Palace
+0,2020-2021,Mbaye Diagne,28,784,1189.0,191cm, FW,3.9393939393939394,0.15,0.23,1. Premier League,West Brom
+0,2020-2021,Kai Havertz,21,441,1520.0,186cm, FW-MF (AM),1.656804733727811,0.18,0.24,1. Premier League,Chelsea
+1,2021-2022,Kai Havertz,22,484,1809.0,186cm, FW-MF (AM),1.8905472636815919,0.15,0.4,1. Premier League,Chelsea
+2,2022-2023,Kai Havertz,23,529,2218.0,186cm, FW-MF (AM),2.8048780487804876,0.04,0.28,1. Premier League,Chelsea
+0,2017-2018,Jack Cork,28,784,3420.0,185cm, DF-MF (CM-DM),1.3421052631578947,0.03,0.05,1. Premier League,Burnley
+1,2018-2019,Jack Cork,29,841,3312.0,185cm, DF-MF (CM-DM),1.3858695652173914,0.05,0.03,1. Premier League,Burnley
+2,2019-2020,Jack Cork,30,900,2613.0,185cm, DF-MF (CM-DM),1.8620689655172413,0.0,0.0,1. Premier League,Burnley
+3,2020-2021,Jack Cork,31,961,1350.0,185cm, DF-MF (CM-DM),2.1333333333333333,0.0,0.0,1. Premier League,Burnley
+4,2021-2022,Jack Cork,32,1024,1670.0,185cm, DF-MF (CM-DM),1.3978494623655913,0.0,0.05,1. Premier League,Burnley
+0,2019-2020,Lloyd Kelly,20,400,639.0,181cm," DF (CB-FB, left)",1.5492957746478875,0.0,0.0,1. Premier League,Bournemouth
+1,2022-2023,Lloyd Kelly,23,529,1440.0,181cm," DF (CB-FB, left)",1.75,0.12,0.0,1. Premier League,Bournemouth
+0,2019-2020,John McGinn,24,576,2312.0,178cm, MF (AM-CM-DM-WM),0.7392996108949417,0.12,0.12,1. Premier League,Aston Villa
+1,2020-2021,John McGinn,25,625,3330.0,178cm, MF (AM-CM-DM-WM),0.5675675675675675,0.14,0.08,1. Premier League,Aston Villa
+2,2021-2022,John McGinn,26,676,3090.0,178cm, MF (AM-CM-DM-WM),0.641399416909621,0.12,0.09,1. Premier League,Aston Villa
+3,2022-2023,John McGinn,27,729,2063.0,178cm, MF (AM-CM-DM-WM),0.7860262008733625,0.09,0.04,1. Premier League,Aston Villa
+0,2017-2018,Paulo Gazzaniga,25,625,90.0,196cm, GK,1.0,0.0,0.0,1. Premier League,Tottenham
+1,2018-2019,Paulo Gazzaniga,26,676,270.0,196cm, GK,0.0,0.0,0.0,1. Premier League,Tottenham
+2,2019-2020,Paulo Gazzaniga,27,729,1613.0,196cm, GK,0.223463687150838,0.0,0.0,1. Premier League,Tottenham
+0,2020-2021,Ollie Watkins,24,576,3328.0,180cm, FW-MF,3.675675675675676,0.14,0.38,1. Premier League,Aston Villa
+1,2021-2022,Ollie Watkins,25,625,2952.0,180cm, FW-MF,1.981707317073171,0.06,0.34,1. Premier League,Aston Villa
+2,2022-2023,Ollie Watkins,26,676,2502.0,180cm, FW-MF,1.9424460431654675,0.22,0.5,1. Premier League,Aston Villa
+0,2021-2022,William Troost-Ekong,27,729,1390.0,191cm, DF-MF (CB),1.5584415584415585,0.0,0.0,1. Premier League,Watford
+0,2019-2020,Djibril Sidibé,27,729,1824.0,182cm," DF-MF (FB, right)",1.379310344827586,0.2,0.0,1. Premier League,Everton
+0,2017-2018,Jamaal Lascelles,23,529,2928.0,189cm, DF (CB),3.9384615384615387,0.0,0.09,1. Premier League,Newcastle Utd
+1,2018-2019,Jamaal Lascelles,24,576,2745.0,189cm, DF (CB),3.0163934426229506,0.03,0.0,1. Premier League,Newcastle Utd
+2,2019-2020,Jamaal Lascelles,25,625,2076.0,189cm, DF (CB),3.16017316017316,0.0,0.04,1. Premier League,Newcastle Utd
+3,2020-2021,Jamaal Lascelles,26,676,1625.0,189cm, DF (CB),2.5414364640883975,0.0,0.11,1. Premier League,Newcastle Utd
+4,2021-2022,Jamaal Lascelles,27,729,2058.0,189cm, DF (CB),3.8864628820960703,0.0,0.04,1. Premier League,Newcastle Utd
+5,2022-2023,Jamaal Lascelles,28,784,201.0,189cm, DF (CB),2.2727272727272725,0.0,0.0,1. Premier League,Newcastle Utd
+0,2017-2018,Aaron Wan-Bissaka,19,361,627.0,182cm," DF (FB, right)",1.2857142857142858,0.0,0.0,1. Premier League,Crystal Palace
+1,2018-2019,Aaron Wan-Bissaka,20,400,3134.0,182cm," DF (FB, right)",1.2356321839080462,0.09,0.0,1. Premier League,Crystal Palace
+2,2019-2020,Aaron Wan-Bissaka,21,441,3070.0,182cm," DF (FB, right)",0.7038123167155425,0.12,0.0,1. Premier League,Manchester Utd
+3,2020-2021,Aaron Wan-Bissaka,22,484,3060.0,182cm," DF (FB, right)",1.1176470588235294,0.12,0.06,1. Premier League,Manchester Utd
+4,2021-2022,Aaron Wan-Bissaka,23,529,1793.0,182cm," DF (FB, right)",0.9547738693467337,0.0,0.0,1. Premier League,Manchester Utd
+5,2022-2023,Aaron Wan-Bissaka,24,576,919.0,182cm," DF (FB, right)",0.8823529411764707,0.0,0.0,1. Premier League,Manchester Utd
+0,2018-2019,Lucas Digne,25,625,2965.0,178cm," DF-MF (FB, left)",2.6443768996960486,0.12,0.12,1. Premier League,Everton
+1,2019-2020,Lucas Digne,26,676,3030.0,178cm," DF-MF (FB, left)",3.323442136498516,0.21,0.0,1. Premier League,Everton
+2,2020-2021,Lucas Digne,27,729,2681.0,178cm," DF-MF (FB, left)",3.087248322147651,0.23,0.0,1. Premier League,Everton
+3,2021-2022,Lucas Digne,28,784,2439.0,178cm," DF-MF (FB, left)",3.477359519912712,0.28,0.0,1. Premier League,Aston Villa
+4,2022-2023,Lucas Digne,29,841,1299.0,178cm," DF-MF (FB, left)",1.3194444444444444,0.0,0.07,1. Premier League,Aston Villa
+0,2020-2021,Robin Olsen,30,900,630.0,198cm, GK,0.2857142857142857,0.0,0.0,1. Premier League,Everton
+1,2021-2022,Robin Olsen,31,961,90.0,198cm, GK,0.36363636363636365,0.0,0.0,1. Premier League,Aston Villa
+2,2022-2023,Robin Olsen,32,1024,236.0,198cm, GK,0.0,0.0,0.0,1. Premier League,Aston Villa
+0,2017-2018,Geoff Cameron,32,1024,1525.0,191cm, DF-MF (CB-DM),2.307692307692308,0.0,0.0,1. Premier League,Stoke City
+0,2017-2018,Ramadan Sobhi,20,400,1238.0,183cm, MF (AM),0.7971014492753623,0.0,0.15,1. Premier League,Stoke City
+1,2018-2019,Ramadan Sobhi,21,441,79.0,183cm, MF (AM),3.333333333333333,0.0,0.0,1. Premier League,Huddersfield
+0,2017-2018,Jan Vertonghen,30,900,3203.0,189cm," DF (CB-FB, left)",3.258426966292135,0.0,0.0,1. Premier League,Tottenham
+1,2018-2019,Jan Vertonghen,31,961,1911.0,189cm," DF (CB-FB, left)",2.405660377358491,0.0,0.05,1. Premier League,Tottenham
+2,2019-2020,Jan Vertonghen,32,1024,1645.0,189cm," DF (CB-FB, left)",3.2240437158469946,0.05,0.05,1. Premier League,Tottenham
+0,2018-2019,Ken Sema,24,576,754.0,177cm," DF-FW-MF (WM, left)",2.380952380952381,0.24,0.12,1. Premier League,Watford
+1,2019-2020,Ken Sema,25,625,0.0,177cm," DF-FW-MF (WM, left)",0.5494505494505494,0.0,0.0,1. Premier League,Watford
+2,2021-2022,Ken Sema,27,729,852.0,177cm," DF-FW-MF (WM, left)",1.263157894736842,0.0,0.0,1. Premier League,Watford
+0,2018-2019,Sokratis Papastathopoulos,30,900,2198.0,186cm, DF (CB-FB),2.2131147540983607,0.08,0.04,1. Premier League,Arsenal
+1,2019-2020,Sokratis Papastathopoulos,31,961,1696.0,186cm, DF (CB-FB),3.085106382978723,0.0,0.11,1. Premier League,Arsenal
+0,2018-2019,Karlan Grant,20,400,877.0,183cm, FW-MF (AM),1.0309278350515465,0.0,0.41,1. Premier League,Huddersfield
+1,2020-2021,Karlan Grant,22,484,1127.0,183cm, FW-MF (AM),1.12,0.0,0.08,1. Premier League,West Brom
+0,2018-2019,Matt Doherty,26,676,3144.0,182cm," DF-MF (FB-WM, right)",4.154727793696275,0.14,0.11,1. Premier League,Wolves
+1,2019-2020,Matt Doherty,27,729,2839.0,182cm," DF-MF (FB-WM, right)",4.190476190476191,0.1,0.13,1. Premier League,Wolves
+2,2020-2021,Matt Doherty,28,784,1240.0,182cm," DF-MF (FB-WM, right)",3.550724637681159,0.15,0.0,1. Premier League,Tottenham
+3,2021-2022,Matt Doherty,29,841,875.0,182cm," DF-MF (FB-WM, right)",1.6494845360824744,0.41,0.21,1. Premier League,Tottenham
+4,2022-2023,Matt Doherty,30,900,667.0,182cm," DF-MF (FB-WM, right)",2.7027027027027026,0.0,0.13,1. Premier League,Tottenham
+0,2019-2020,Eric García,18,324,793.0,183cm, DF (CB),1.25,0.0,0.0,1. Premier League,Manchester City
+1,2020-2021,Eric García,19,361,383.0,183cm, DF (CB),0.6976744186046512,0.0,0.0,1. Premier League,Manchester City
+0,2017-2018,Shane Duffy,25,625,3292.0,193cm," DF-MF (CB, right)",5.245901639344262,0.03,0.0,1. Premier League,Brighton
+1,2018-2019,Shane Duffy,26,676,3087.0,193cm," DF-MF (CB, right)",5.451895043731779,0.03,0.15,1. Premier League,Brighton
+2,2019-2020,Shane Duffy,27,729,1238.0,193cm," DF-MF (CB, right)",4.855072463768115,0.0,0.07,1. Premier League,Brighton
+3,2021-2022,Shane Duffy,29,841,1436.0,193cm," DF-MF (CB, right)",4.0625,0.0,0.06,1. Premier League,Brighton
+4,2022-2023,Shane Duffy,30,900,6.0,193cm," DF-MF (CB, right)",20.0,0.0,0.0,1. Premier League,Fulham
+0,2017-2018,Paul Pogba,24,576,2148.0,191cm, MF (CM-DM-WM),2.0502092050209204,0.42,0.25,1. Premier League,Manchester Utd
+1,2018-2019,Paul Pogba,25,625,3006.0,191cm, MF (CM-DM-WM),1.7365269461077846,0.27,0.39,1. Premier League,Manchester Utd
+2,2019-2020,Paul Pogba,26,676,1204.0,191cm, MF (CM-DM-WM),2.1641791044776117,0.22,0.07,1. Premier League,Manchester Utd
+3,2020-2021,Paul Pogba,27,729,1897.0,191cm, MF (CM-DM-WM),2.6066350710900474,0.14,0.14,1. Premier League,Manchester Utd
+4,2021-2022,Paul Pogba,28,784,1349.0,191cm, MF (CM-DM-WM),2.3333333333333335,0.6,0.07,1. Premier League,Manchester Utd
+0,2018-2019,Adama Traoré,22,484,902.0,178cm," FW-MF (WM, right)",2.2,0.1,0.1,1. Premier League,Wolves
+1,2019-2020,Adama Traoré,23,529,2605.0,178cm," FW-MF (WM, right)",1.5570934256055364,0.31,0.14,1. Premier League,Wolves
+2,2020-2021,Adama Traoré,24,576,2649.0,178cm," FW-MF (WM, right)",2.482993197278912,0.07,0.07,1. Premier League,Wolves
+3,2021-2022,Adama Traoré,25,625,1067.0,178cm," FW-MF (WM, right)",2.450980392156863,0.0,0.08,1. Premier League,Wolves
+4,2022-2023,Adama Traoré,26,676,1275.0,178cm," FW-MF (WM, right)",2.3943661971830985,0.07,0.14,1. Premier League,Wolves
+0,2018-2019,Cyrus Christie,25,625,1948.0,188cm," DF-MF (FB, right)",2.5925925925925926,0.05,0.0,1. Premier League,Fulham
+1,2020-2021,Cyrus Christie,27,729,0.0,188cm," DF-MF (FB, right)",1.9134396355353076,0.0,0.0,1. Premier League,Fulham
+0,2017-2018,Ashley Barnes,27,729,2165.0,183cm, FW,3.3609958506224062,0.0,0.37,1. Premier League,Burnley
+1,2018-2019,Ashley Barnes,28,784,2388.0,183cm, FW,4.490566037735849,0.08,0.45,1. Premier League,Burnley
+2,2019-2020,Ashley Barnes,29,841,1352.0,183cm, FW,3.8666666666666667,0.0,0.4,1. Premier League,Burnley
+3,2020-2021,Ashley Barnes,30,900,1331.0,183cm, FW,4.0540540540540535,0.0,0.2,1. Premier League,Burnley
+4,2021-2022,Ashley Barnes,31,961,808.0,183cm, FW,5.444444444444445,0.0,0.11,1. Premier League,Burnley
+0,2017-2018,Andriy Yarmolenko,27,729,426.0,189cm," FW-MF (AM-WM, right)",0.782608695652174,0.21,0.63,1. Premier League,Dynamo Kyiv
+1,2018-2019,Andriy Yarmolenko,28,784,459.0,189cm," FW-MF (AM-WM, right)",0.5882352941176471,0.0,0.39,1. Premier League,West Ham
+2,2019-2020,Andriy Yarmolenko,29,841,991.0,189cm," FW-MF (AM-WM, right)",0.36363636363636365,0.09,0.45,1. Premier League,West Ham
+3,2020-2021,Andriy Yarmolenko,30,900,375.0,189cm," FW-MF (AM-WM, right)",0.9523809523809523,0.24,0.0,1. Premier League,West Ham
+4,2021-2022,Andriy Yarmolenko,31,961,316.0,189cm," FW-MF (AM-WM, right)",1.4285714285714286,0.0,0.28,1. Premier League,West Ham
+0,2017-2018,Declan Rice,18,324,1430.0,185cm, DF-MF (CM-DM),1.949685534591195,0.0,0.0,1. Premier League,West Ham
+1,2018-2019,Declan Rice,19,361,3003.0,185cm, DF-MF (CM-DM),1.6167664670658684,0.0,0.06,1. Premier League,West Ham
+2,2019-2020,Declan Rice,20,400,3420.0,185cm, DF-MF (CM-DM),1.3421052631578947,0.08,0.03,1. Premier League,West Ham
+3,2020-2021,Declan Rice,21,441,2879.0,185cm, DF-MF (CM-DM),1.34375,0.03,0.06,1. Premier League,West Ham
+4,2021-2022,Declan Rice,22,484,3179.0,185cm, DF-MF (CM-DM),1.189801699716714,0.11,0.03,1. Premier League,West Ham
+5,2022-2023,Declan Rice,23,529,2700.0,185cm, DF-MF (CM-DM),1.1,0.03,0.07,1. Premier League,West Ham
+0,2019-2020,Tyrick Mitchell,19,361,195.0,175cm," DF (FB, left)",0.0,0.0,0.0,1. Premier League,Crystal Palace
+1,2020-2021,Tyrick Mitchell,20,400,1710.0,175cm," DF (FB, left)",0.5789473684210527,0.05,0.05,1. Premier League,Crystal Palace
+2,2021-2022,Tyrick Mitchell,21,441,3101.0,175cm," DF (FB, left)",0.8405797101449275,0.06,0.0,1. Premier League,Crystal Palace
+3,2022-2023,Tyrick Mitchell,22,484,2261.0,175cm," DF (FB, left)",0.8366533864541832,0.08,0.0,1. Premier League,Crystal Palace
+0,2021-2022,Pontus Jansson,30,900,3321.0,194cm, DF (CB),2.7642276422764227,0.03,0.08,1. Premier League,Brentford
+1,2022-2023,Pontus Jansson,31,961,724.0,194cm, DF (CB),3.125,0.0,0.12,1. Premier League,Brentford
+0,2019-2020,Moise Kean,19,361,852.0,182cm, FW,1.1578947368421053,0.21,0.21,1. Premier League,Everton
+1,2020-2021,Moise Kean,20,400,15.0,182cm, FW,0.7407407407407408,0.0,0.0,1. Premier League,Everton
+2,2021-2022,Moise Kean,21,441,1.0,182cm, FW,1.8032786885245902,0.0,0.0,1. Premier League,Everton
+0,2019-2020,Tariq Lamptey,18,324,620.0,175cm, DF-MF,0.46153846153846156,0.15,0.0,1. Premier League,Brighton
+1,2020-2021,Tariq Lamptey,19,361,886.0,175cm, DF-MF,0.5102040816326531,0.1,0.1,1. Premier League,Brighton
+2,2021-2022,Tariq Lamptey,20,400,1561.0,175cm, DF-MF,0.40462427745664736,0.12,0.0,1. Premier League,Brighton
+3,2022-2023,Tariq Lamptey,21,441,453.0,175cm, DF-MF,0.4,0.0,0.0,1. Premier League,Brighton
+0,2019-2020,Kieran Tierney,22,484,989.0,178cm," DF-MF (FB, left)",0.8181818181818182,0.09,0.09,1. Premier League,Arsenal
+1,2020-2021,Kieran Tierney,23,529,2299.0,178cm," DF-MF (FB, left)",0.6274509803921569,0.12,0.04,1. Premier League,Arsenal
+2,2021-2022,Kieran Tierney,24,576,1915.0,178cm," DF-MF (FB, left)",0.5633802816901409,0.14,0.05,1. Premier League,Arsenal
+3,2022-2023,Kieran Tierney,25,625,618.0,178cm," DF-MF (FB, left)",0.2898550724637681,0.15,0.0,1. Premier League,Arsenal
+0,2017-2018,Maya Yoshida,28,784,2051.0,189cm, DF (CB),2.850877192982456,0.0,0.09,1. Premier League,Southampton
+1,2018-2019,Maya Yoshida,29,841,1518.0,189cm, DF (CB),2.0118343195266273,0.06,0.0,1. Premier League,Southampton
+2,2019-2020,Maya Yoshida,30,900,560.0,189cm, DF (CB),3.763440860215054,0.0,0.0,1. Premier League,Southampton
+0,2018-2019,Leander Dendoncker,23,529,1467.0,178cm," DF-MF (CM-DM, right)",3.4355828220858893,0.0,0.12,1. Premier League,Wolves
+1,2019-2020,Leander Dendoncker,24,576,2795.0,178cm," DF-MF (CM-DM, right)",3.022508038585209,0.0,0.13,1. Premier League,Wolves
+2,2020-2021,Leander Dendoncker,25,625,2503.0,178cm," DF-MF (CM-DM, right)",3.0575539568345325,0.0,0.04,1. Premier League,Wolves
+3,2021-2022,Leander Dendoncker,26,676,1950.0,178cm," DF-MF (CM-DM, right)",1.3824884792626728,0.09,0.09,1. Premier League,Wolves
+4,2022-2023,Leander Dendoncker,27,729,689.0,178cm," DF-MF (CM-DM, right)",2.1540880503144657,0.0,0.0,1. Premier League,Aston Villa
+0,2020-2021,Jamie Shackleton,20,400,461.0,182cm, MF,0.0,0.0,0.0,1. Premier League,Leeds United
+1,2021-2022,Jamie Shackleton,21,441,709.0,182cm, MF,0.6329113924050632,0.0,0.0,1. Premier League,Leeds United
+0,2017-2018,Victor Wanyama,26,676,846.0,188cm, MF (CM-DM),1.8085106382978722,0.0,0.11,1. Premier League,Tottenham
+1,2018-2019,Victor Wanyama,27,729,516.0,188cm, MF (CM-DM),2.456140350877193,0.0,0.17,1. Premier League,Tottenham
+2,2019-2020,Victor Wanyama,28,784,25.0,188cm, MF (CM-DM),3.3333333333333335,0.0,0.0,1. Premier League,Tottenham
+0,2020-2021,Joël Veltman,28,784,2281.0,182cm," DF (CB-FB, right)",1.6600790513833992,0.04,0.04,1. Premier League,Brighton
+1,2021-2022,Joël Veltman,29,841,2874.0,182cm," DF (CB-FB, right)",1.7241379310344829,0.03,0.03,1. Premier League,Brighton
+2,2022-2023,Joël Veltman,30,900,1990.0,182cm," DF (CB-FB, right)",1.0407239819004523,0.05,0.05,1. Premier League,Brighton
+0,2017-2018,Chris Brunt,32,1024,1920.0,180cm," DF-MF (AM-WM, left)",0.704225352112676,0.33,0.0,1. Premier League,West Brom
+0,2019-2020,Adam Webster,24,576,2668.0,192cm, DF (CB),3.614864864864865,0.03,0.1,1. Premier League,Brighton
+1,2020-2021,Adam Webster,25,625,2594.0,192cm, DF (CB),2.673611111111111,0.0,0.03,1. Premier League,Brighton
+2,2021-2022,Adam Webster,26,676,1434.0,192cm, DF (CB),3.5220125786163523,0.0,0.13,1. Premier League,Brighton
+3,2022-2023,Adam Webster,27,729,1696.0,192cm, DF (CB),2.6595744680851063,0.0,0.0,1. Premier League,Brighton
+0,2017-2018,Martin Kelly,27,729,1195.0,191cm," DF-MF (CB-FB, right)",2.0300751879699246,0.0,0.0,1. Premier League,Crystal Palace
+1,2018-2019,Martin Kelly,28,784,1111.0,191cm," DF-MF (CB-FB, right)",2.8455284552845526,0.0,0.0,1. Premier League,Crystal Palace
+2,2019-2020,Martin Kelly,29,841,1549.0,191cm," DF-MF (CB-FB, right)",1.9186046511627908,0.06,0.0,1. Premier League,Crystal Palace
+3,2020-2021,Martin Kelly,30,900,2.0,191cm," DF-MF (CB-FB, right)",0.0,0.0,0.0,1. Premier League,Crystal Palace
+0,2020-2021,Sam Johnstone,27,729,3330.0,191cm, GK,0.13513513513513514,0.03,0.0,1. Premier League,West Brom
+1,2022-2023,Sam Johnstone,29,841,180.0,191cm, GK,0.0,0.0,0.0,1. Premier League,Crystal Palace
+0,2017-2018,Martin Dúbravka,28,784,1080.0,190cm, GK,0.16666666666666666,0.0,0.0,1. Premier League,Newcastle Utd
+1,2018-2019,Martin Dúbravka,29,841,3420.0,190cm, GK,0.39473684210526316,0.0,0.0,1. Premier League,Newcastle Utd
+2,2019-2020,Martin Dúbravka,30,900,3420.0,190cm, GK,0.23684210526315788,0.0,0.0,1. Premier League,Newcastle Utd
+3,2020-2021,Martin Dúbravka,31,961,1170.0,190cm, GK,0.3076923076923077,0.0,0.0,1. Premier League,Newcastle Utd
+4,2021-2022,Martin Dúbravka,32,1024,2340.0,190cm, GK,0.15384615384615385,0.0,0.0,1. Premier League,Newcastle Utd
+5,2022-2023,Martin Dúbravka,33,1089,67.0,190cm, GK,0.0,0.0,0.0,1. Premier League,Manchester Utd
+0,2018-2019,Rúben Neves,21,441,3007.0,180cm, MF (AM-CM-DM),0.8383233532934132,0.09,0.12,1. Premier League,Wolves
+1,2019-2020,Rúben Neves,22,484,3056.0,180cm, MF (AM-CM-DM),0.8235294117647058,0.06,0.06,1. Premier League,Wolves
+2,2020-2021,Rúben Neves,23,529,2675.0,180cm, MF (AM-CM-DM),0.8417508417508418,0.03,0.17,1. Premier League,Wolves
+3,2021-2022,Rúben Neves,24,576,2661.0,180cm, MF (AM-CM-DM),0.6418918918918919,0.07,0.14,1. Premier League,Wolves
+4,2022-2023,Rúben Neves,25,625,2482.0,180cm, MF (AM-CM-DM),0.7971014492753623,0.0,0.18,1. Premier League,Wolves
+0,2017-2018,Luciano Narsingh,26,676,625.0,178cm," FW-MF (WM, right)",0.2898550724637681,0.0,0.14,1. Premier League,Swansea City
+0,2017-2018,Jonjoe Kenny,20,400,1590.0,176cm," DF-FW (FB, right)",2.146892655367232,0.06,0.0,1. Premier League,Everton
+1,2018-2019,Jonjoe Kenny,21,441,791.0,176cm," DF-FW (FB, right)",2.6136363636363633,0.11,0.0,1. Premier League,Everton
+2,2020-2021,Jonjoe Kenny,23,529,79.0,176cm," DF-FW (FB, right)",0.0,0.0,0.0,1. Premier League,Everton
+3,2021-2022,Jonjoe Kenny,24,576,1018.0,176cm," DF-FW (FB, right)",0.7964601769911503,0.09,0.0,1. Premier League,Everton
+0,2017-2018,Jordan Henderson,27,729,2171.0,182cm," MF (CM-WM, right)",1.0373443983402488,0.04,0.04,1. Premier League,Liverpool
+1,2018-2019,Jordan Henderson,28,784,1987.0,182cm," MF (CM-WM, right)",1.085972850678733,0.14,0.05,1. Premier League,Liverpool
+2,2019-2020,Jordan Henderson,29,841,2238.0,182cm," MF (CM-WM, right)",0.9638554216867471,0.2,0.16,1. Premier League,Liverpool
+3,2020-2021,Jordan Henderson,30,900,1704.0,182cm," MF (CM-WM, right)",0.5820105820105821,0.05,0.05,1. Premier League,Liverpool
+4,2021-2022,Jordan Henderson,31,961,2597.0,182cm," MF (CM-WM, right)",0.6228373702422145,0.17,0.07,1. Premier League,Liverpool
+5,2022-2023,Jordan Henderson,32,1024,1612.0,182cm," MF (CM-WM, right)",0.446927374301676,0.11,0.0,1. Premier League,Liverpool
+0,2019-2020,Callum Robinson,24,576,676.0,178cm, FW-MF (AM),1.5859649122807018,0.13,0.13,1. Premier League,Sheffield Utd
+1,2020-2021,Callum Robinson,25,625,1560.0,178cm, FW-MF (AM),1.0404624277456647,0.0,0.29,1. Premier League,West Brom
+0,2017-2018,Isaac Hayden,22,484,1374.0,187cm, DF-MF (CB-CM-DM),3.1372549019607843,0.0,0.07,1. Premier League,Newcastle Utd
+1,2018-2019,Isaac Hayden,23,529,1859.0,187cm, DF-MF (CB-CM-DM),2.5120772946859904,0.19,0.05,1. Premier League,Newcastle Utd
+2,2019-2020,Isaac Hayden,24,576,2223.0,187cm, DF-MF (CB-CM-DM),1.9838056680161944,0.08,0.04,1. Premier League,Newcastle Utd
+3,2020-2021,Isaac Hayden,25,625,1942.0,187cm, DF-MF (CB-CM-DM),2.5925925925925926,0.0,0.0,1. Premier League,Newcastle Utd
+4,2021-2022,Isaac Hayden,26,676,1002.0,187cm, DF-MF (CB-CM-DM),1.7117117117117118,0.0,0.09,1. Premier League,Newcastle Utd
+0,2020-2021,Edouard Mendy,28,784,2745.0,197cm, GK,0.13114754098360656,0.0,0.0,1. Premier League,Chelsea
+1,2021-2022,Edouard Mendy,29,841,3060.0,197cm, GK,0.3235294117647059,0.0,0.0,1. Premier League,Chelsea
+2,2022-2023,Edouard Mendy,30,900,765.0,197cm, GK,0.23529411764705882,0.0,0.0,1. Premier League,Chelsea
+0,2018-2019,Adama Diakhaby,22,484,552.0,184cm, FW-MF,0.9836065573770493,0.0,0.0,1. Premier League,Huddersfield
+0,2017-2018,James Ward-Prowse,22,484,1716.0,173cm," MF (AM-CM, right)",1.0994764397905759,0.16,0.16,1. Premier League,Southampton
+1,2018-2019,James Ward-Prowse,23,529,1945.0,173cm," MF (AM-CM, right)",0.9722222222222222,0.0,0.32,1. Premier League,Southampton
+2,2019-2020,James Ward-Prowse,24,576,3420.0,173cm," MF (AM-CM, right)",1.8157894736842106,0.08,0.13,1. Premier League,Southampton
+3,2020-2021,James Ward-Prowse,25,625,3420.0,173cm," MF (AM-CM, right)",1.236842105263158,0.18,0.21,1. Premier League,Southampton
+4,2021-2022,James Ward-Prowse,26,676,3215.0,173cm," MF (AM-CM, right)",0.7563025210084033,0.14,0.28,1. Premier League,Southampton
+5,2022-2023,James Ward-Prowse,27,729,2790.0,173cm," MF (AM-CM, right)",1.3548387096774193,0.06,0.23,1. Premier League,Southampton
+0,2017-2018,Christian Atsu,25,625,1784.0,172cm," FW-MF (WM, left)",0.6565656565656566,0.1,0.1,1. Premier League,Newcastle Utd
+1,2018-2019,Christian Atsu,26,676,1493.0,172cm," FW-MF (WM, left)",0.6024096385542168,0.0,0.06,1. Premier League,Newcastle Utd
+2,2019-2020,Christian Atsu,27,729,749.0,172cm," FW-MF (WM, left)",0.7228915662650601,0.36,0.0,1. Premier League,Newcastle Utd
+0,2021-2022,Malang Sarr,22,484,546.0,182cm," DF (CB, left)",2.1311475409836067,0.0,0.0,1. Premier League,Chelsea
+0,2019-2020,Billy Sharp,33,1089,1051.0,175cm, FW,1.623931623931624,0.17,0.26,1. Premier League,Sheffield Utd
+1,2020-2021,Billy Sharp,34,1156,735.0,175cm, FW,1.3414634146341464,0.0,0.37,1. Premier League,Sheffield Utd
+0,2017-2018,Roberto Pereyra,26,676,1624.0,182cm, FW-MF (AM-CM-WM),0.16666666666666666,0.11,0.28,1. Premier League,Watford
+1,2018-2019,Roberto Pereyra,27,729,2815.0,182cm, FW-MF (AM-CM-WM),0.12779552715654952,0.03,0.19,1. Premier League,Watford
+2,2019-2020,Roberto Pereyra,28,784,1648.0,182cm, FW-MF (AM-CM-WM),0.27322404371584696,0.0,0.16,1. Premier League,Watford
+0,2018-2019,Fabian Schär,26,676,1999.0,186cm," DF (CB, right)",2.7927927927927927,0.05,0.18,1. Premier League,Newcastle Utd
+1,2019-2020,Fabian Schär,27,729,1672.0,186cm," DF (CB, right)",1.7741935483870965,0.0,0.11,1. Premier League,Newcastle Utd
+2,2020-2021,Fabian Schär,28,784,1246.0,186cm," DF (CB, right)",1.1594202898550725,0.0,0.07,1. Premier League,Newcastle Utd
+3,2021-2022,Fabian Schär,29,841,2158.0,186cm," DF (CB, right)",1.875,0.08,0.08,1. Premier League,Newcastle Utd
+4,2022-2023,Fabian Schär,30,900,2503.0,186cm," DF (CB, right)",2.985611510791367,0.04,0.04,1. Premier League,Newcastle Utd
+0,2017-2018,Aymeric Laporte,23,529,806.0,189cm," DF (CB, left)",5.140350877192983,0.0,0.0,1. Premier League,Manchester City
+1,2018-2019,Aymeric Laporte,24,576,3057.0,189cm," DF (CB, left)",2.235294117647059,0.09,0.09,1. Premier League,Manchester City
+2,2019-2020,Aymeric Laporte,25,625,1097.0,189cm," DF (CB, left)",1.9672131147540985,0.0,0.08,1. Premier League,Manchester City
+3,2020-2021,Aymeric Laporte,26,676,1344.0,189cm," DF (CB, left)",2.751677852348993,0.0,0.0,1. Premier League,Manchester City
+4,2021-2022,Aymeric Laporte,27,729,2828.0,189cm," DF (CB, left)",1.6560509554140128,0.0,0.13,1. Premier League,Manchester City
+5,2022-2023,Aymeric Laporte,28,784,646.0,189cm," DF (CB, left)",2.5,0.0,0.0,1. Premier League,Manchester City
+0,2019-2020,John Egan,26,676,3187.0,185cm, DF (CB),3.7570621468926557,0.0,0.06,1. Premier League,Sheffield Utd
+1,2020-2021,John Egan,27,729,2629.0,185cm, DF (CB),2.73972602739726,0.03,0.0,1. Premier League,Sheffield Utd
+0,2020-2021,Saïd Benrahma,24,576,1391.0,172cm," FW-MF (AM, left)",0.12903225806451613,0.39,0.06,1. Premier League,West Ham
+1,2021-2022,Saïd Benrahma,25,625,2168.0,172cm," FW-MF (AM, left)",0.41493775933609955,0.25,0.33,1. Premier League,West Ham
+2,2022-2023,Saïd Benrahma,26,676,1700.0,172cm," FW-MF (AM, left)",0.15873015873015875,0.16,0.26,1. Premier League,West Ham
+0,2017-2018,Florent Hadergjonaj,23,529,1674.0,182cm," DF-MF (FB, right)",0.6989247311827956,0.05,0.0,1. Premier League,Huddersfield
+1,2018-2019,Florent Hadergjonaj,24,576,1842.0,182cm," DF-MF (FB, right)",1.0731707317073171,0.0,0.0,1. Premier League,Huddersfield
+0,2020-2021,Gareth Bale,31,961,920.0,185cm, FW-MF (AM-WM),2.2549019607843137,0.2,1.08,1. Premier League,Tottenham
+0,2017-2018,Virgil van Dijk,26,676,2254.0,193cm," DF (CB, left)",10.954545454545453,0.0,0.0,1. Premier League,Liverpool
+1,2018-2019,Virgil van Dijk,27,729,3384.0,193cm," DF (CB, left)",4.654255319148936,0.05,0.11,1. Premier League,Liverpool
+2,2019-2020,Virgil van Dijk,28,784,3420.0,193cm," DF (CB, left)",4.947368421052632,0.03,0.13,1. Premier League,Liverpool
+3,2020-2021,Virgil van Dijk,29,841,370.0,193cm," DF (CB, left)",2.9268292682926833,0.0,0.24,1. Premier League,Liverpool
+4,2021-2022,Virgil van Dijk,30,900,3060.0,193cm," DF (CB, left)",3.4411764705882355,0.03,0.09,1. Premier League,Liverpool
+5,2022-2023,Virgil van Dijk,31,961,2205.0,193cm," DF (CB, left)",2.6122448979591835,0.0,0.12,1. Premier League,Liverpool
+0,2019-2020,Keinan Davis,21,441,548.0,179cm, FW,4.426229508196721,0.0,0.0,1. Premier League,Aston Villa
+1,2020-2021,Keinan Davis,22,484,277.0,179cm, FW,5.806451612903226,0.32,0.32,1. Premier League,Aston Villa
+2,2021-2022,Keinan Davis,23,529,12.0,179cm, FW,2.2033898305084745,0.0,0.0,1. Premier League,Aston Villa
+0,2021-2022,Junior Firpo,24,576,1711.0,184cm," DF-MF (FB, left)",1.4210526315789473,0.11,0.0,1. Premier League,Leeds United
+1,2022-2023,Junior Firpo,25,625,1068.0,184cm," DF-MF (FB, left)",1.0084033613445378,0.08,0.08,1. Premier League,Leeds United
+0,2017-2018,Alfie Mawson,23,529,3420.0,188cm, DF (CB),3.1578947368421053,0.03,0.05,1. Premier League,Swansea City
+1,2018-2019,Alfie Mawson,24,576,1131.0,188cm, DF (CB),2.5396825396825395,0.0,0.0,1. Premier League,Fulham
+0,2018-2019,Junior Hoilett,28,784,2141.0,174cm, FW-MF (AM-WM),0.7983193277310924,0.04,0.13,1. Premier League,Cardiff City
+0,2019-2020,Jack Grealish,23,529,3233.0,175cm," FW-MF (AM-WM, left)",0.5571030640668524,0.17,0.22,1. Premier League,Aston Villa
+1,2020-2021,Jack Grealish,24,576,2185.0,175cm," FW-MF (AM-WM, left)",1.02880658436214,0.41,0.25,1. Premier League,Aston Villa
+2,2021-2022,Jack Grealish,25,625,1914.0,175cm," FW-MF (AM-WM, left)",0.6572769953051643,0.14,0.14,1. Premier League,Manchester City
+3,2022-2023,Jack Grealish,26,676,1776.0,175cm," FW-MF (AM-WM, left)",0.6598984771573604,0.3,0.25,1. Premier League,Manchester City
+0,2017-2018,Craig Dawson,27,729,2510.0,188cm," DF (CB-FB, right)",4.121863799283155,0.0,0.07,1. Premier League,West Brom
+1,2019-2020,Craig Dawson,29,841,2361.0,188cm," DF (CB-FB, right)",3.816793893129771,0.0,0.08,1. Premier League,Watford
+2,2020-2021,Craig Dawson,30,900,1925.0,188cm," DF (CB-FB, right)",2.6168224299065423,0.0,0.14,1. Premier League,West Ham
+3,2021-2022,Craig Dawson,31,961,2754.0,188cm," DF (CB-FB, right)",3.0392156862745097,0.07,0.07,1. Premier League,West Ham
+4,2022-2023,Craig Dawson,32,1024,1639.0,188cm," DF (CB-FB, right)",3.9068627450980395,0.0,0.1,1. Premier League,Wolves
+0,2020-2021,Kenny Tete,24,576,1481.0,180cm," DF (FB, right)",1.7575757575757576,0.06,0.0,1. Premier League,Fulham
+1,2022-2023,Kenny Tete,26,676,1962.0,180cm," DF (FB, right)",1.1926605504587156,0.18,0.0,1. Premier League,Fulham
+0,2017-2018,Lucas Moura,24,576,210.0,172cm," FW-MF (AM-WM, right)",2.989130434782609,0.43,0.0,1. Premier League,Tottenham
+1,2018-2019,Lucas Moura,25,625,2121.0,172cm," FW-MF (AM-WM, right)",1.4406779661016949,0.0,0.42,1. Premier League,Tottenham
+2,2019-2020,Lucas Moura,26,676,2242.0,172cm," FW-MF (AM-WM, right)",2.3293172690763053,0.16,0.16,1. Premier League,Tottenham
+3,2020-2021,Lucas Moura,27,729,1411.0,172cm," FW-MF (AM-WM, right)",1.4649681528662422,0.26,0.19,1. Premier League,Tottenham
+4,2021-2022,Lucas Moura,28,784,1775.0,172cm," FW-MF (AM-WM, right)",2.436548223350254,0.3,0.1,1. Premier League,Tottenham
+5,2022-2023,Lucas Moura,29,841,126.0,172cm," FW-MF (AM-WM, right)",2.142857142857143,0.0,0.0,1. Premier League,Tottenham
+0,2017-2018,Marc Pugh,30,900,985.0,180cm, FW-MF (WM),0.6422018348623852,0.0,0.0,1. Premier League,Bournemouth
+1,2018-2019,Marc Pugh,31,961,0.0,180cm, FW-MF (WM),1.098901098901099,0.0,0.0,1. Premier League,Bournemouth
+0,2017-2018,Erik Pieters,28,784,2718.0,184cm," DF-MF (CB-FB, left)",1.6556291390728477,0.03,0.0,1. Premier League,Stoke City
+1,2019-2020,Erik Pieters,30,900,1878.0,184cm," DF-MF (CB-FB, left)",1.5311004784688995,0.19,0.0,1. Premier League,Burnley
+2,2020-2021,Erik Pieters,31,961,1266.0,184cm," DF-MF (CB-FB, left)",0.9219858156028369,0.07,0.0,1. Premier League,Burnley
+3,2021-2022,Erik Pieters,32,1024,730.0,184cm," DF-MF (CB-FB, left)",1.4814814814814816,0.12,0.0,1. Premier League,Burnley
+0,2017-2018,Charlie Adam,31,961,411.0,185cm, MF,1.5217391304347827,0.0,0.0,1. Premier League,Stoke City
+0,2017-2018,Javier Manquillo,23,529,1758.0,175cm," DF (FB, right)",1.1282051282051282,0.05,0.0,1. Premier League,Newcastle Utd
+1,2018-2019,Javier Manquillo,24,576,1101.0,175cm," DF (FB, right)",1.557377049180328,0.25,0.0,1. Premier League,Newcastle Utd
+2,2019-2020,Javier Manquillo,25,625,1599.0,175cm," DF (FB, right)",0.898876404494382,0.06,0.0,1. Premier League,Newcastle Utd
+3,2020-2021,Javier Manquillo,26,676,825.0,175cm," DF (FB, right)",1.5217391304347827,0.0,0.0,1. Premier League,Newcastle Utd
+4,2021-2022,Javier Manquillo,27,729,1257.0,175cm," DF (FB, right)",1.1428571428571428,0.14,0.07,1. Premier League,Newcastle Utd
+5,2022-2023,Javier Manquillo,28,784,15.0,175cm," DF (FB, right)",0.0,0.0,0.0,1. Premier League,Newcastle Utd
+0,2017-2018,Wilfred Ndidi,20,400,2898.0,188cm, DF-MF (CM-DM),3.602484472049689,0.09,0.0,1. Premier League,Leicester City
+1,2018-2019,Wilfred Ndidi,21,441,3296.0,188cm, DF-MF (CM-DM),3.4972677595628414,0.0,0.05,1. Premier League,Leicester City
+2,2019-2020,Wilfred Ndidi,22,484,2674.0,188cm, DF-MF (CM-DM),2.7946127946127945,0.03,0.07,1. Premier League,Leicester City
+3,2020-2021,Wilfred Ndidi,23,529,2176.0,188cm, DF-MF (CM-DM),2.31404958677686,0.17,0.04,1. Premier League,Leicester City
+4,2021-2022,Wilfred Ndidi,24,576,1618.0,188cm, DF-MF (CM-DM),2.3333333333333335,0.0,0.0,1. Premier League,Leicester City
+5,2022-2023,Wilfred Ndidi,25,625,1416.0,188cm, DF-MF (CM-DM),1.337579617834395,0.0,0.0,1. Premier League,Leicester City
+0,2017-2018,Ainsley Maitland-Niles,19,361,914.0,180cm, DF-FW-MF (FB-WM),0.5882352941176471,0.0,0.0,1. Premier League,Arsenal
+1,2018-2019,Ainsley Maitland-Niles,20,400,987.0,180cm, DF-FW-MF (FB-WM),0.5454545454545454,0.09,0.09,1. Premier League,Arsenal
+2,2019-2020,Ainsley Maitland-Niles,21,441,1386.0,180cm, DF-FW-MF (FB-WM),1.103896103896104,0.13,0.0,1. Premier League,Arsenal
+3,2020-2021,Ainsley Maitland-Niles,22,484,1720.0,180cm, DF-FW-MF (FB-WM),0.9205190592051905,0.0,0.0,1. Premier League,Arsenal
+4,2021-2022,Ainsley Maitland-Niles,23,529,268.0,180cm, DF-FW-MF (FB-WM),2.4814814814814814,0.0,0.0,1. Premier League,Arsenal
+5,2022-2023,Ainsley Maitland-Niles,24,576,1160.0,180cm, DF-FW-MF (FB-WM),1.1627906976744187,0.0,0.0,1. Premier League,Southampton
+0,2017-2018,Philip Billing,21,441,764.0,192cm, MF (CM-WM),2.9411764705882355,0.0,0.0,1. Premier League,Huddersfield
+1,2018-2019,Philip Billing,22,484,2188.0,192cm, MF (CM-WM),3.539094650205761,0.0,0.08,1. Premier League,Huddersfield
+2,2019-2020,Philip Billing,23,529,2530.0,192cm, MF (CM-WM),3.9501779359430604,0.04,0.04,1. Premier League,Bournemouth
+3,2022-2023,Philip Billing,26,676,2293.0,192cm, MF (CM-WM),1.6470588235294117,0.04,0.27,1. Premier League,Bournemouth
+0,2021-2022,Cristiano Ronaldo,36,1296,2456.0,187cm, FW-MF (WM),1.5384615384615383,0.11,0.66,1. Premier League,Manchester Utd
+1,2022-2023,Cristiano Ronaldo,37,1369,525.0,187cm, FW-MF (WM),2.586206896551724,0.0,0.17,1. Premier League,Manchester Utd
+0,2018-2019,Joe Bennett,28,784,2639.0,177cm," DF-MF (FB, left)",1.1604095563139931,0.03,0.0,1. Premier League,Cardiff City
+0,2018-2019,Leandro Bacuna,26,676,561.0,187cm," DF-MF (CM-DM-FB-WM, right)",2.2878305413263185,0.0,0.0,1. Premier League,Cardiff City
+0,2017-2018,Aaron Lennon,30,900,1911.0,165cm," FW-MF (AM-WM, right)",0.8907624633431084,0.16,0.0,1. Premier League,Burnley
+1,2018-2019,Aaron Lennon,31,961,1215.0,165cm," FW-MF (AM-WM, right)",0.07407407407407407,0.07,0.07,1. Premier League,Burnley
+2,2019-2020,Aaron Lennon,32,1024,496.0,165cm," FW-MF (AM-WM, right)",0.36363636363636365,0.0,0.0,1. Premier League,Burnley
+3,2021-2022,Aaron Lennon,34,1156,1551.0,165cm," FW-MF (AM-WM, right)",0.4069767441860465,0.0,0.12,1. Premier League,Burnley
+0,2017-2018,Leroy Sané,21,441,2419.0,184cm, FW-MF (AM),0.5576208178438662,0.56,0.37,1. Premier League,Manchester City
+1,2018-2019,Leroy Sané,22,484,1867.0,184cm, FW-MF (AM),0.48309178743961356,0.48,0.48,1. Premier League,Manchester City
+2,2019-2020,Leroy Sané,23,529,12.0,184cm, FW-MF (AM),0.0,0.0,0.0,1. Premier League,Manchester City
+0,2018-2019,Erik Durm,26,676,2055.0,183cm, DF-FW-MF (FB),0.9649122807017544,0.04,0.0,1. Premier League,Huddersfield
+0,2017-2018,Cesc Fàbregas,30,900,2307.0,175cm, FW-MF (AM-CM-DM),0.390625,0.16,0.08,1. Premier League,Chelsea
+1,2018-2019,Cesc Fàbregas,31,961,180.0,175cm, FW-MF (AM-CM-DM),1.6542056074766356,0.0,0.0,1. Premier League,Chelsea
+0,2018-2019,Bernd Leno,26,676,2836.0,190cm, GK,0.2222222222222222,0.0,0.0,1. Premier League,Arsenal
+1,2019-2020,Bernd Leno,27,729,2649.0,190cm, GK,0.272108843537415,0.0,0.0,1. Premier League,Arsenal
+2,2020-2021,Bernd Leno,28,784,3131.0,190cm, GK,0.2873563218390805,0.0,0.0,1. Premier League,Arsenal
+3,2021-2022,Bernd Leno,29,841,360.0,190cm, GK,0.75,0.0,0.0,1. Premier League,Arsenal
+4,2022-2023,Bernd Leno,30,900,2520.0,190cm, GK,0.32142857142857145,0.0,0.0,1. Premier League,Fulham
+0,2017-2018,Dwight Gayle,26,676,1958.0,177cm, FW,3.073394495412844,0.14,0.28,1. Premier League,Newcastle Utd
+1,2019-2020,Dwight Gayle,28,784,850.0,177cm, FW,2.234042553191489,0.21,0.42,1. Premier League,Newcastle Utd
+2,2020-2021,Dwight Gayle,29,841,514.0,177cm, FW,1.9298245614035088,0.18,0.18,1. Premier League,Newcastle Utd
+3,2021-2022,Dwight Gayle,30,900,38.0,177cm, FW,2.5,0.0,0.0,1. Premier League,Newcastle Utd
+0,2020-2021,Willian José,28,784,1110.0,186cm, FW,3.9320029563932,0.0,0.08,1. Premier League,Wolves
+0,2017-2018,Kasper Schmeichel,30,900,2965.0,189cm, GK,0.3343465045592705,0.0,0.0,1. Premier League,Leicester City
+1,2018-2019,Kasper Schmeichel,31,961,3420.0,189cm, GK,0.2631578947368421,0.0,0.0,1. Premier League,Leicester City
+2,2019-2020,Kasper Schmeichel,32,1024,3420.0,189cm, GK,0.15789473684210525,0.0,0.0,1. Premier League,Leicester City
+3,2020-2021,Kasper Schmeichel,33,1089,3420.0,189cm, GK,0.2631578947368421,0.0,0.0,1. Premier League,Leicester City
+4,2021-2022,Kasper Schmeichel,34,1156,3330.0,189cm, GK,0.24324324324324326,0.0,0.0,1. Premier League,Leicester City
+0,2020-2021,Alex Telles,27,729,690.0,181cm," DF (FB, left)",4.0170174652933275,0.26,0.0,1. Premier League,Manchester Utd
+1,2021-2022,Alex Telles,28,784,1660.0,181cm," DF (FB, left)",1.6304347826086958,0.22,0.0,1. Premier League,Manchester Utd
+0,2017-2018,Mesut Özil,28,784,2163.0,183cm, MF (AM-WM),0.041666666666666664,0.33,0.17,1. Premier League,Arsenal
+1,2018-2019,Mesut Özil,29,841,1735.0,183cm, MF (AM-WM),0.25906735751295334,0.1,0.26,1. Premier League,Arsenal
+2,2019-2020,Mesut Özil,30,900,1438.0,183cm, MF (AM-WM),0.0625,0.13,0.06,1. Premier League,Arsenal
+0,2019-2020,Steven Alzate,20,400,1188.0,180cm, MF,0.6818181818181819,0.0,0.0,1. Premier League,Brighton
+1,2020-2021,Steven Alzate,21,441,896.0,180cm, MF,0.7,0.0,0.1,1. Premier League,Brighton
+2,2021-2022,Steven Alzate,22,484,404.0,180cm, MF,0.8888888888888888,0.0,0.0,1. Premier League,Brighton
+0,2017-2018,Serge Aurier,24,576,1429.0,176cm," DF-MF (FB, right)",3.0188679245283017,0.13,0.13,1. Premier League,Tottenham
+1,2018-2019,Serge Aurier,25,625,564.0,176cm," DF-MF (FB, right)",1.9047619047619049,0.32,0.0,1. Premier League,Tottenham
+2,2019-2020,Serge Aurier,26,676,2700.0,176cm," DF-MF (FB, right)",2.3333333333333335,0.17,0.03,1. Premier League,Tottenham
+3,2020-2021,Serge Aurier,27,729,1605.0,176cm," DF-MF (FB, right)",2.0224719101123596,0.17,0.11,1. Premier League,Tottenham
+4,2022-2023,Serge Aurier,29,841,1430.0,176cm," DF-MF (FB, right)",2.2641509433962264,0.0,0.06,1. Premier League,Nott'ham Forest
+0,2017-2018,Ayoze Pérez,24,576,2492.0,179cm, FW-MF (AM-WM),1.552346570397112,0.18,0.29,1. Premier League,Newcastle Utd
+1,2018-2019,Ayoze Pérez,25,625,2917.0,179cm, FW-MF (AM-WM),0.8024691358024691,0.06,0.37,1. Premier League,Newcastle Utd
+2,2019-2020,Ayoze Pérez,26,676,2004.0,179cm, FW-MF (AM-WM),1.0762331838565022,0.18,0.36,1. Premier League,Leicester City
+3,2020-2021,Ayoze Pérez,27,729,1331.0,179cm, FW-MF (AM-WM),0.8108108108108107,0.07,0.14,1. Premier League,Leicester City
+4,2021-2022,Ayoze Pérez,28,784,445.0,179cm, FW-MF (AM-WM),1.2244897959183672,0.61,0.4,1. Premier League,Leicester City
+5,2022-2023,Ayoze Pérez,29,841,382.0,179cm, FW-MF (AM-WM),1.0241356816699283,0.24,0.0,1. Premier League,Leicester City
+0,2019-2020,Dani Ceballos,22,484,1692.0,176cm, MF (CM-WM),0.4787234042553191,0.11,0.0,1. Premier League,Arsenal
+1,2020-2021,Dani Ceballos,23,529,1615.0,176cm, MF (CM-WM),0.446927374301676,0.17,0.0,1. Premier League,Arsenal
+0,2017-2018,Georginio Wijnaldum,26,676,2387.0,175cm, MF (AM-CM-WM),0.5660377358490566,0.08,0.04,1. Premier League,Liverpool
+1,2018-2019,Georginio Wijnaldum,27,729,2725.0,175cm, MF (AM-CM-WM),1.056105610561056,0.0,0.1,1. Premier League,Liverpool
+2,2019-2020,Georginio Wijnaldum,28,784,2935.0,175cm, MF (AM-CM-WM),0.920245398773006,0.0,0.12,1. Premier League,Liverpool
+3,2020-2021,Georginio Wijnaldum,29,841,2941.0,175cm, MF (AM-CM-WM),1.1926605504587156,0.0,0.06,1. Premier League,Liverpool
+0,2020-2021,Josh Maja,21,441,810.0,178cm, FW,2.906367041198502,0.0,0.33,1. Premier League,Fulham
+0,2017-2018,Robbie Brady,25,625,1277.0,178cm, DF-FW-MF (WM),0.6338028169014085,0.14,0.07,1. Premier League,Burnley
+1,2018-2019,Robbie Brady,26,676,720.0,178cm, DF-FW-MF (WM),1.375,0.12,0.0,1. Premier League,Burnley
+2,2019-2020,Robbie Brady,27,729,454.0,178cm, DF-FW-MF (WM),2.4,0.4,0.2,1. Premier League,Burnley
+3,2020-2021,Robbie Brady,28,784,1052.0,178cm, DF-FW-MF (WM),1.623931623931624,0.09,0.09,1. Premier League,Burnley
+0,2017-2018,Charlie Austin,28,784,1037.0,188cm, FW,3.3043478260869565,0.0,0.61,1. Premier League,Southampton
+1,2018-2019,Charlie Austin,29,841,983.0,188cm, FW,3.853211009174312,0.18,0.18,1. Premier League,Southampton
+2,2020-2021,Charlie Austin,31,961,138.0,188cm, FW,5.210191082802548,0.0,0.0,1. Premier League,West Brom
+0,2017-2018,Grzegorz Krychowiak,27,729,1641.0,186cm, MF (CM-DM),1.3186813186813187,0.11,0.0,1. Premier League,West Brom
+0,2021-2022,Rico Henry,24,576,2776.0,170cm," DF-MF (FB-WM, left)",0.8766233766233766,0.0,0.1,1. Premier League,Brentford
+1,2022-2023,Rico Henry,25,625,2659.0,170cm," DF-MF (FB-WM, left)",1.0847457627118644,0.07,0.0,1. Premier League,Brentford
+0,2021-2022,Ivan Toney,25,625,2909.0,179cm, FW,4.5510835913312695,0.15,0.37,1. Premier League,Brentford
+1,2022-2023,Ivan Toney,26,676,2599.0,179cm, FW,3.4602076124567476,0.14,0.62,1. Premier League,Brentford
+0,2019-2020,Aaron Ramsdale,21,441,3330.0,195cm, GK,0.2702702702702703,0.03,0.0,1. Premier League,Bournemouth
+1,2020-2021,Aaron Ramsdale,22,484,3420.0,195cm, GK,0.21052631578947367,0.0,0.0,1. Premier League,Sheffield Utd
+2,2021-2022,Aaron Ramsdale,23,529,3060.0,195cm, GK,0.17647058823529413,0.0,0.0,1. Premier League,Arsenal
+3,2022-2023,Aaron Ramsdale,24,576,2790.0,195cm, GK,0.12903225806451613,0.0,0.0,1. Premier League,Arsenal
+0,2017-2018,James Milner,31,961,1775.0,176cm, DF-MF (CM-FB-WM),1.16751269035533,0.15,0.0,1. Premier League,Liverpool
+1,2018-2019,James Milner,32,1024,1789.0,176cm, DF-MF (CM-FB-WM),0.9547738693467337,0.2,0.25,1. Premier League,Liverpool
+2,2019-2020,James Milner,33,1089,937.0,176cm, DF-MF (CM-FB-WM),1.25,0.19,0.19,1. Premier League,Liverpool
+3,2020-2021,James Milner,34,1156,1070.0,176cm, DF-MF (CM-FB-WM),2.0168067226890756,0.08,0.0,1. Premier League,Liverpool
+4,2021-2022,James Milner,35,1225,853.0,176cm, DF-MF (CM-FB-WM),1.368421052631579,0.11,0.0,1. Premier League,Liverpool
+5,2022-2023,James Milner,36,1296,749.0,176cm, DF-MF (CM-FB-WM),1.2048192771084336,0.12,0.0,1. Premier League,Liverpool
+0,2017-2018,Nacho Monreal,31,961,2243.0,178cm," DF (FB, left)",2.48995983935743,0.08,0.2,1. Premier League,Arsenal
+1,2018-2019,Nacho Monreal,32,1024,1861.0,178cm," DF (FB, left)",1.7391304347826086,0.15,0.05,1. Premier League,Arsenal
+2,2019-2020,Nacho Monreal,33,1089,270.0,178cm," DF (FB, left)",4.325814536340852,0.0,0.0,1. Premier League,Arsenal
+0,2018-2019,Grady Diangana,20,400,609.0,168cm, FW-MF (AM),1.0294117647058825,0.15,0.0,1. Premier League,West Ham
+1,2020-2021,Grady Diangana,22,484,1235.0,168cm, FW-MF (AM),1.6058394160583942,0.0,0.07,1. Premier League,West Brom
+0,2017-2018,DeAndre Yedlin,24,576,2845.0,173cm," DF (FB, right)",1.4873417721518987,0.06,0.0,1. Premier League,Newcastle Utd
+1,2018-2019,DeAndre Yedlin,25,625,2473.0,173cm," DF (FB, right)",1.0909090909090908,0.07,0.04,1. Premier League,Newcastle Utd
+2,2019-2020,DeAndre Yedlin,26,676,938.0,173cm," DF (FB, right)",0.7692307692307692,0.0,0.1,1. Premier League,Newcastle Utd
+3,2020-2021,DeAndre Yedlin,27,729,436.0,173cm," DF (FB, right)",0.8333333333333334,0.0,0.0,1. Premier League,Newcastle Utd
+0,2017-2018,Andrew Surman,30,900,1856.0,178cm, MF (CM-DM),1.5533980582524272,0.24,0.1,1. Premier League,Bournemouth
+1,2018-2019,Andrew Surman,31,961,1439.0,178cm, MF (CM-DM),1.1875,0.0,0.0,1. Premier League,Bournemouth
+2,2019-2020,Andrew Surman,32,1024,235.0,178cm, MF (CM-DM),1.5384615384615383,0.0,0.0,1. Premier League,Bournemouth
+0,2017-2018,Phil Jagielka,34,1156,2065.0,180cm, DF-MF (CB-DM),2.8384279475982535,0.0,0.0,1. Premier League,Everton
+1,2018-2019,Phil Jagielka,35,1225,331.0,180cm, DF-MF (CB-DM),3.7837837837837838,0.0,0.27,1. Premier League,Everton
+2,2019-2020,Phil Jagielka,36,1296,244.0,180cm, DF-MF (CB-DM),5.555555555555555,0.0,0.0,1. Premier League,Sheffield Utd
+3,2020-2021,Phil Jagielka,37,1369,526.0,180cm, DF-MF (CB-DM),2.241379310344828,0.0,0.0,1. Premier League,Sheffield Utd
+0,2017-2018,James Tomkins,28,784,2387.0,190cm," DF-MF (CB-DM, right)",4.339622641509434,0.0,0.11,1. Premier League,Crystal Palace
+1,2018-2019,James Tomkins,29,841,2560.0,190cm," DF-MF (CB-DM, right)",3.204225352112676,0.04,0.04,1. Premier League,Crystal Palace
+2,2019-2020,James Tomkins,30,900,1582.0,190cm," DF-MF (CB-DM, right)",3.4090909090909087,0.06,0.06,1. Premier League,Crystal Palace
+3,2020-2021,James Tomkins,31,961,553.0,190cm," DF-MF (CB-DM, right)",1.8032786885245902,0.0,0.0,1. Premier League,Crystal Palace
+4,2021-2022,James Tomkins,32,1024,547.0,190cm," DF-MF (CB-DM, right)",1.639344262295082,0.0,0.16,1. Premier League,Crystal Palace
+5,2022-2023,James Tomkins,33,1089,338.0,190cm," DF-MF (CB-DM, right)",1.5789473684210527,0.0,0.27,1. Premier League,Crystal Palace
+0,2019-2020,Sébastien Haller,25,625,2266.0,187cm, FW,8.452380952380953,0.04,0.28,1. Premier League,West Ham
+1,2020-2021,Sébastien Haller,26,676,937.0,187cm, FW,10.810123784261716,0.0,0.29,1. Premier League,West Ham
+0,2017-2018,Nemanja Matić,28,784,3118.0,194cm, MF (CM-DM),1.6184971098265895,0.03,0.03,1. Premier League,Manchester Utd
+1,2018-2019,Nemanja Matić,29,841,2436.0,194cm, MF (CM-DM),1.9926199261992619,0.0,0.04,1. Premier League,Manchester Utd
+2,2019-2020,Nemanja Matić,30,900,1581.0,194cm, MF (CM-DM),1.477272727272727,0.11,0.0,1. Premier League,Manchester Utd
+3,2020-2021,Nemanja Matić,31,961,1106.0,194cm, MF (CM-DM),1.5447154471544715,0.0,0.0,1. Premier League,Manchester Utd
+4,2021-2022,Nemanja Matić,32,1024,1382.0,194cm, MF (CM-DM),1.8181818181818181,0.26,0.0,1. Premier League,Manchester Utd
+0,2019-2020,Aaron Connolly,19,361,1258.0,180cm, FW,1.2857142857142858,0.07,0.21,1. Premier League,Brighton
+1,2020-2021,Aaron Connolly,20,400,791.0,180cm, FW,0.7954545454545454,0.11,0.23,1. Premier League,Brighton
+2,2021-2022,Aaron Connolly,21,441,156.0,180cm, FW,1.863493488998653,0.0,0.0,1. Premier League,Brighton
+0,2021-2022,Enock Mwepu,23,529,996.0,184cm," MF (CM, right)",0.8108108108108109,0.36,0.18,1. Premier League,Brighton
+1,2022-2023,Enock Mwepu,24,576,213.0,184cm," MF (CM, right)",0.0,0.42,0.0,1. Premier League,Brighton
+0,2019-2020,Curtis Jones,18,324,126.0,185cm, MF (CM),1.4285714285714286,0.0,0.71,1. Premier League,Liverpool
+1,2020-2021,Curtis Jones,19,361,1179.0,185cm, MF (CM),1.0687022900763359,0.15,0.08,1. Premier League,Liverpool
+2,2021-2022,Curtis Jones,20,400,851.0,185cm, MF (CM),0.7368421052631579,0.11,0.11,1. Premier League,Liverpool
+3,2022-2023,Curtis Jones,21,441,422.0,185cm, MF (CM),0.2127659574468085,0.21,0.0,1. Premier League,Liverpool
+0,2017-2018,Troy Deeney,29,841,1844.0,183cm, FW,6.439024390243903,0.1,0.24,1. Premier League,Watford
+1,2018-2019,Troy Deeney,30,900,2545.0,183cm, FW,7.137809187279152,0.18,0.32,1. Premier League,Watford
+2,2019-2020,Troy Deeney,31,961,2225.0,183cm, FW,7.894736842105264,0.08,0.4,1. Premier League,Watford
+3,2021-2022,Troy Deeney,33,1089,25.0,183cm, FW,24.89655172413793,0.0,0.0,1. Premier League,Watford
+0,2017-2018,Héctor Bellerín,22,484,3051.0,177cm," DF-MF (FB, right)",1.032448377581121,0.09,0.06,1. Premier League,Arsenal
+1,2018-2019,Héctor Bellerín,23,529,1533.0,177cm," DF-MF (FB, right)",1.2352941176470589,0.29,0.0,1. Premier League,Arsenal
+2,2019-2020,Héctor Bellerín,24,576,1158.0,177cm," DF-MF (FB, right)",1.0077519379844961,0.0,0.08,1. Premier League,Arsenal
+3,2020-2021,Héctor Bellerín,25,625,2089.0,177cm," DF-MF (FB, right)",1.3362068965517242,0.09,0.04,1. Premier League,Arsenal
+4,2021-2022,Héctor Bellerín,26,676,0.0,177cm," DF-MF (FB, right)",1.2272727272727273,0.0,0.0,1. Premier League,Arsenal
+0,2017-2018,Andrew Robertson,23,529,1940.0,178cm," DF-MF (FB, left)",0.6944444444444444,0.23,0.05,1. Premier League,Liverpool
+1,2018-2019,Andrew Robertson,24,576,3216.0,178cm," DF-MF (FB, left)",0.6722689075630252,0.31,0.0,1. Premier League,Liverpool
+2,2019-2020,Andrew Robertson,25,625,3111.0,178cm," DF-MF (FB, left)",0.9537572254335259,0.35,0.06,1. Premier League,Liverpool
+3,2020-2021,Andrew Robertson,26,676,3383.0,178cm," DF-MF (FB, left)",0.7712765957446808,0.19,0.03,1. Premier League,Liverpool
+4,2021-2022,Andrew Robertson,27,729,2537.0,178cm," DF-MF (FB, left)",0.9219858156028369,0.35,0.11,1. Premier League,Liverpool
+5,2022-2023,Andrew Robertson,28,784,2046.0,178cm," DF-MF (FB, left)",0.6607929515418502,0.26,0.0,1. Premier League,Liverpool
+0,2017-2018,Jordan Ayew,25,625,2852.0,182cm, FW-MF,1.5772870662460567,0.06,0.22,1. Premier League,Swansea City
+1,2018-2019,Jordan Ayew,26,676,1181.0,182cm, FW-MF,2.4427480916030535,0.15,0.08,1. Premier League,Crystal Palace
+2,2019-2020,Jordan Ayew,27,729,3148.0,182cm, FW-MF,2.2,0.06,0.26,1. Premier League,Crystal Palace
+3,2020-2021,Jordan Ayew,28,784,2096.0,182cm, FW-MF,1.2446351931330473,0.13,0.04,1. Premier League,Crystal Palace
+4,2021-2022,Jordan Ayew,29,841,2019.0,182cm, FW-MF,1.4285714285714286,0.13,0.13,1. Premier League,Crystal Palace
+5,2022-2023,Jordan Ayew,30,900,2091.0,182cm, FW-MF,1.8103448275862069,0.09,0.13,1. Premier League,Crystal Palace
+0,2017-2018,Shane Long,30,900,1582.0,180cm, FW,4.3181818181818175,0.06,0.11,1. Premier League,Southampton
+1,2018-2019,Shane Long,31,961,1272.0,180cm, FW,5.1063829787234045,0.07,0.35,1. Premier League,Southampton
+2,2019-2020,Shane Long,32,1024,1395.0,180cm, FW,7.161290322580645,0.13,0.13,1. Premier League,Southampton
+3,2020-2021,Shane Long,33,1089,210.0,180cm, FW,7.374254049445866,0.0,0.0,1. Premier League,Southampton
+4,2021-2022,Shane Long,34,1156,308.0,180cm, FW,7.0588235294117645,0.0,0.29,1. Premier League,Southampton
+0,2017-2018,Lewis Dunk,25,625,3420.0,192cm, DF (CB),3.1578947368421053,0.03,0.03,1. Premier League,Brighton
+1,2018-2019,Lewis Dunk,26,676,3151.0,192cm, DF (CB),3.4,0.03,0.06,1. Premier League,Brighton
+2,2019-2020,Lewis Dunk,27,729,3230.0,192cm, DF (CB),2.701949860724234,0.08,0.08,1. Premier League,Brighton
+3,2020-2021,Lewis Dunk,28,784,2931.0,192cm, DF (CB),2.392638036809816,0.0,0.15,1. Premier League,Brighton
+4,2021-2022,Lewis Dunk,29,841,2573.0,192cm, DF (CB),2.832167832167832,0.0,0.03,1. Premier League,Brighton
+5,2022-2023,Lewis Dunk,30,900,2609.0,192cm, DF (CB),1.9310344827586208,0.0,0.03,1. Premier League,Brighton
+0,2017-2018,Calum Chambers,22,484,866.0,183cm," DF-MF (CB-FB, right)",2.916666666666667,0.0,0.0,1. Premier League,Arsenal
+1,2018-2019,Calum Chambers,23,529,2588.0,183cm," DF-MF (CB-FB, right)",2.2222222222222223,0.0,0.07,1. Premier League,Fulham
+2,2019-2020,Calum Chambers,24,576,1102.0,183cm," DF-MF (CB-FB, right)",2.9508196721311477,0.08,0.08,1. Premier League,Arsenal
+3,2020-2021,Calum Chambers,25,625,753.0,183cm," DF-MF (CB-FB, right)",2.380952380952381,0.24,0.0,1. Premier League,Arsenal
+4,2021-2022,Calum Chambers,26,676,1001.0,183cm," DF-MF (CB-FB, right)",3.8787185354691074,0.0,0.11,1. Premier League,Aston Villa
+5,2022-2023,Calum Chambers,27,729,295.0,183cm," DF-MF (CB-FB, right)",0.9090909090909092,0.0,0.0,1. Premier League,Aston Villa
+0,2017-2018,Allan Nyom,29,841,2310.0,186cm," DF-MF (FB, right)",0.8171206225680934,0.04,0.0,1. Premier League,West Brom
+0,2021-2022,Wout Weghorst,28,784,1450.0,197cm, FW,6.017305137687142,0.19,0.12,1. Premier League,Burnley
+1,2022-2023,Wout Weghorst,29,841,644.0,197cm, FW,1.5277777777777777,0.14,0.0,1. Premier League,Manchester Utd
+0,2017-2018,Isaac Success,21,441,0.0,182cm, FW-MF,0.5454545454545454,0.0,0.0,1. Premier League,Watford
+1,2018-2019,Isaac Success,22,484,1052.0,182cm, FW-MF,2.64957264957265,0.09,0.09,1. Premier League,Watford
+2,2019-2020,Isaac Success,23,529,70.0,182cm, FW-MF,0.0,0.0,0.0,1. Premier League,Watford
+0,2020-2021,Rúben Dias,23,529,2843.0,186cm, DF (CB),2.9303797468354427,0.0,0.03,1. Premier League,Manchester City
+1,2021-2022,Rúben Dias,24,576,2402.0,186cm, DF (CB),1.8726591760299627,0.15,0.07,1. Premier League,Manchester City
+2,2022-2023,Rúben Dias,25,625,1639.0,186cm, DF (CB),2.197802197802198,0.0,0.0,1. Premier League,Manchester City
+0,2020-2021,Sergio Reguilón,23,529,2244.0,176cm," DF-MF (FB, left)",1.1646586345381527,0.12,0.0,1. Premier League,Tottenham
+1,2021-2022,Sergio Reguilón,24,576,1916.0,176cm," DF-MF (FB, left)",1.4553990610328638,0.14,0.09,1. Premier League,Tottenham
+0,2017-2018,Jeffrey Schlupp,24,576,1745.0,178cm," DF-FW-MF (FB-WM, left)",1.9587628865979383,0.05,0.0,1. Premier League,Crystal Palace
+1,2018-2019,Jeffrey Schlupp,25,625,1670.0,178cm," DF-FW-MF (FB-WM, left)",2.8494623655913975,0.05,0.22,1. Premier League,Crystal Palace
+2,2019-2020,Jeffrey Schlupp,26,676,1036.0,178cm," DF-FW-MF (FB-WM, left)",1.7391304347826086,0.09,0.26,1. Premier League,Crystal Palace
+3,2020-2021,Jeffrey Schlupp,27,729,1428.0,178cm," DF-FW-MF (FB-WM, left)",1.8867924528301887,0.19,0.13,1. Premier League,Crystal Palace
+4,2021-2022,Jeffrey Schlupp,28,784,1851.0,178cm," DF-FW-MF (FB-WM, left)",1.5048543689320388,0.05,0.19,1. Premier League,Crystal Palace
+5,2022-2023,Jeffrey Schlupp,29,841,2272.0,178cm," DF-FW-MF (FB-WM, left)",0.7936507936507937,0.04,0.08,1. Premier League,Crystal Palace
+0,2021-2022,Vitaliy Mykolenko,22,484,2330.0,180cm," DF (FB, left)",0.8547008547008548,0.21,0.09,1. Premier League,Everton
+1,2022-2023,Vitaliy Mykolenko,23,529,2295.0,180cm," DF (FB, left)",0.8235294117647058,0.0,0.0,1. Premier League,Everton
+0,2017-2018,Moritz Bauer,25,625,2703.0,181cm," DF-MF (FB, right)",1.2413793103448276,0.0,0.0,1. Premier League,Stoke City
+0,2017-2018,Rob Holding,21,441,822.0,183cm, DF (CB),2.967032967032967,0.0,0.0,1. Premier League,Arsenal
+1,2018-2019,Rob Holding,22,484,807.0,183cm, DF (CB),2.3333333333333335,0.0,0.0,1. Premier League,Arsenal
+2,2019-2020,Rob Holding,23,529,581.0,183cm, DF (CB),2.4615384615384617,0.0,0.0,1. Premier League,Arsenal
+3,2020-2021,Rob Holding,24,576,2558.0,183cm, DF (CB),2.5,0.04,0.0,1. Premier League,Arsenal
+4,2021-2022,Rob Holding,25,625,845.0,183cm, DF (CB),2.978723404255319,0.0,0.11,1. Premier League,Arsenal
+5,2022-2023,Rob Holding,26,676,380.0,183cm, DF (CB),3.571428571428571,0.0,0.0,1. Premier League,Arsenal
+0,2018-2019,Gonzalo Higuaín,30,900,1085.0,184cm, FW-MF (WM),1.2827377488068912,0.0,0.41,1. Premier League,Chelsea
+0,2021-2022,Dejan Kulusevski,21,441,1261.0,186cm, FW-MF,1.260797342192691,0.57,0.36,1. Premier League,Tottenham
+1,2022-2023,Dejan Kulusevski,22,484,1720.0,186cm, FW-MF,0.15706806282722513,0.31,0.1,1. Premier League,Tottenham
+0,2021-2022,Hassane Kamara,27,729,1623.0,166cm," DF-MF (DM-FB, left)",2.0,0.0,0.06,1. Premier League,Watford
+0,2017-2018,Joel Ward,27,729,1613.0,188cm," DF-MF (DM-FB, right)",1.8435754189944136,0.06,0.0,1. Premier League,Crystal Palace
+1,2018-2019,Joel Ward,28,784,552.0,188cm," DF-MF (DM-FB, right)",2.9508196721311477,0.0,0.16,1. Premier League,Crystal Palace
+2,2019-2020,Joel Ward,29,841,2382.0,188cm," DF-MF (DM-FB, right)",1.9245283018867925,0.0,0.0,1. Premier League,Crystal Palace
+3,2020-2021,Joel Ward,30,900,2256.0,188cm," DF-MF (DM-FB, right)",1.9123505976095616,0.04,0.0,1. Premier League,Crystal Palace
+4,2021-2022,Joel Ward,31,961,2487.0,188cm," DF-MF (DM-FB, right)",2.101449275362319,0.0,0.0,1. Premier League,Crystal Palace
+5,2022-2023,Joel Ward,32,1024,1671.0,188cm," DF-MF (DM-FB, right)",2.150537634408602,0.0,0.0,1. Premier League,Crystal Palace
+0,2018-2019,Adam Masina,24,576,1004.0,189cm," DF (FB, left)",1.9642857142857144,0.09,0.0,1. Premier League,Watford
+1,2019-2020,Adam Masina,25,625,1821.0,189cm," DF (FB, left)",3.316831683168317,0.0,0.05,1. Premier League,Watford
+2,2021-2022,Adam Masina,27,729,1077.0,189cm," DF (FB, left)",2.4166666666666665,0.08,0.0,1. Premier League,Watford
+0,2018-2019,Vicente Guaita,31,961,1754.0,191cm, GK,0.3076923076923077,0.0,0.0,1. Premier League,Crystal Palace
+1,2019-2020,Vicente Guaita,32,1024,3150.0,191cm, GK,0.45714285714285713,0.0,0.0,1. Premier League,Crystal Palace
+2,2020-2021,Vicente Guaita,33,1089,3330.0,191cm, GK,0.24324324324324326,0.0,0.0,1. Premier League,Crystal Palace
+3,2021-2022,Vicente Guaita,34,1156,2655.0,191cm, GK,0.2711864406779661,0.0,0.0,1. Premier League,Crystal Palace
+4,2022-2023,Vicente Guaita,35,1225,2430.0,191cm, GK,0.37037037037037035,0.0,0.0,1. Premier League,Crystal Palace
+0,2017-2018,Anthony Knockaert,25,625,2421.0,172cm," FW-MF (AM-WM, right)",0.5576208178438662,0.04,0.11,1. Premier League,Brighton
+1,2018-2019,Anthony Knockaert,26,676,1837.0,172cm," FW-MF (AM-WM, right)",0.7843137254901962,0.29,0.1,1. Premier League,Brighton
+2,2020-2021,Anthony Knockaert,28,784,0.0,172cm," FW-MF (AM-WM, right)",0.44280442804428044,0.0,0.0,1. Premier League,Fulham
+0,2017-2018,Jermain Defoe,34,1156,1088.0,170cm, FW,0.1652892561983471,0.08,0.33,1. Premier League,Bournemouth
+1,2018-2019,Jermain Defoe,35,1225,25.0,170cm, FW,0.0,0.0,0.0,1. Premier League,Bournemouth
+0,2017-2018,Tom Carroll,25,625,2570.0,171cm," MF (CM, left)",0.34965034965034963,0.14,0.0,1. Premier League,Swansea City
+0,2019-2020,George Baldock,26,676,3420.0,175cm," DF-MF (FB-WM, right)",1.0,0.08,0.05,1. Premier League,Sheffield Utd
+1,2020-2021,George Baldock,27,729,2787.0,175cm," DF-MF (FB-WM, right)",0.8387096774193549,0.06,0.0,1. Premier League,Sheffield Utd
+0,2020-2021,Ki-Jana Hoever,18,324,577.0,180cm, DF,0.9375,0.0,0.0,1. Premier League,Wolves
+1,2021-2022,Ki-Jana Hoever,19,361,308.0,180cm, DF,0.8823529411764706,0.0,0.0,1. Premier League,Wolves
+0,2019-2020,John Fleck,27,729,2516.0,169cm," FW-MF (AM-CM-DM, left)",0.4642857142857143,0.07,0.18,1. Premier League,Sheffield Utd
+1,2020-2021,John Fleck,28,784,2575.0,169cm," FW-MF (AM-CM-DM, left)",0.4195804195804196,0.07,0.0,1. Premier League,Sheffield Utd
+0,2017-2018,Wes Morgan,33,1089,2817.0,188cm," DF (CB, right)",2.9073482428115014,0.0,0.0,1. Premier League,Leicester City
+1,2018-2019,Wes Morgan,34,1156,1925.0,188cm," DF (CB, right)",4.345794392523365,0.0,0.14,1. Premier League,Leicester City
+2,2019-2020,Wes Morgan,35,1225,436.0,188cm," DF (CB, right)",3.9583333333333335,0.0,0.0,1. Premier League,Leicester City
+3,2020-2021,Wes Morgan,36,1296,18.0,188cm," DF (CB, right)",0.0,0.0,0.0,1. Premier League,Leicester City
+0,2017-2018,Victor Moses,26,676,2110.0,177cm," DF-FW-MF (AM-DM-WM, right)",1.1965811965811965,0.13,0.13,1. Premier League,Chelsea
+1,2018-2019,Victor Moses,27,729,28.0,177cm," DF-FW-MF (AM-DM-WM, right)",0.0,0.0,0.0,1. Premier League,Chelsea
