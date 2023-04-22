@@ -23,8 +23,8 @@
 │   └── 
 │
 ├── Player_Valuation
-│   ├── 
-│   ├── 
+│   ├── Data                            # Data from Fbref and collated data from kaggle
+│   ├── player_valuation.ipynb          # Notebook to scrape and process player valuation
 │   ├── 
 │   ├── 
 │   └── 
@@ -33,6 +33,7 @@
 └── Slides
 ```
 # Problem Statement
+How can Manchester United better optimise its transfer strategy to improve the team performance?
 
 
 # Approach
