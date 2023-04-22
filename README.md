@@ -2,6 +2,7 @@
 
 # Table of Content
 - [Repo Structure](#Repo-Structure)
+- [Current Problems](#Current-Problems)
 - [Problem Statement](#Problem-Statement)
 - [Approach](#Approach)
 - [Introduction to code](#Introduction-to-code)
@@ -32,6 +33,16 @@
 ├── Video Presentation
 └── Slides
 ```
+
+# Current Problems
+-Poor Business Management
+-- Manchester United’s owners, the Glazers, have been accused of negligence and poor debt management
+-Managerial Instability
+--After the retirement of Sir Alex Ferguson in 2013, the club has gone through several managers who have struggled to replicate his success.
+-Poor transfer policy
+--Over the past few years, Manchester United has been criticised for leaving deadwood in the team and paying excessively high transfer fees for players
+
+
 # Problem Statement
 - How can Manchester United better optimise its transfer strategy to improve the team performance?
 
