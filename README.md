@@ -20,7 +20,7 @@
 - [Contributors 👨‍💻](#contributors-)
 
 # Repository Structure 🧬
-```bash
+```
 |
 ├── README.md
 ├── Anomaly_Detection
