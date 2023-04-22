@@ -38,7 +38,7 @@
 
 # Approach
 - We will be using a 2 pronged approach to improve Manchester United's team performance
-- - Hi
+  - Hi
 
 # Introduction to code base
 
