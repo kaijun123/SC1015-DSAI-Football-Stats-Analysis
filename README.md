@@ -50,6 +50,7 @@
 
 ## Player_Valuation
 - This segment contains code to predict a player's `Current Valuation`.
+- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
 - Data used include `Players' Stats`, such as height, age, etc, and `Players' Past Transaction Amount`.
 - Using these 2 collection of data, we trained our model to be able to predict a player's `Current Valuation`, based on the player's current stats.
 
