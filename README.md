@@ -52,7 +52,9 @@
 - This segment contains code to predict a player's `Current Valuation`.
 - Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
 - Data used include `Players' Stats`, such as height, age, etc, and `Players' Past Transaction Amount`.
-- Using these 2 collection of data, we trained our model to be able to predict a player's `Current Valuation`, based on the player's current stats.
+- Models that were tested were Random Forest Regressor, Support Vector Regressor, Gradient Boosting and Artificial Neural Network
+- Using these 2 collection of data, we trained each model to be able to predict a player's `Current Valuation`, based on the player's current stats.
+- Calcuated evaluation matrix's for each model such as RMSE, MAE and R^2
 
 ## Video Presentation
 - This folder contains our video presentation.
