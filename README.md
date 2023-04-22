@@ -16,11 +16,12 @@
     - [Player\_Valuation](#player_valuation)
     - [Video Presentation](#video-presentation)
     - [Slides](#slides)
+    - [Assets](#assets)
 - [Contributors 👨‍💻](#contributors-)
 
 # Repository Structure 🧬
 ```bash
-.
+|
 ├── README.md
 ├── Anomaly_Detection
 │   ├── data
@@ -91,6 +92,9 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 ### Slides
 - This folder contains our slides for our project.
+
+### Assets
+- This folder contains miscellaneous assets for the project.
 
 # Contributors 👨‍💻
 
