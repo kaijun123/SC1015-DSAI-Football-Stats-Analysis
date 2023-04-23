@@ -75,7 +75,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 ### Player_Valuation
 - This segment contains code to predict a player's `Current Valuation`.
-- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
+- Data used is obtained from scraping [FbRef](https://fbref.com/en/) and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
 - Data used include `Players' Stats`, such as height, age, etc, and `Players' Past Transaction Amount`.
 - Models that were tested were Random Forest Regressor, Support Vector Regressor, Gradient Boosting and Artificial Neural Network
 - Using these 2 collection of data, we trained each model to be able to predict a player's `Current Valuation`, based on the player's current stats.
