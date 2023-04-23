@@ -94,7 +94,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 `Plus-Minus Per Min = (Goals scored by own team - Goals scored by opponent team) / Playing Time per player`
 - Using the data from Sofifa, we obtained the `Player Ratings`, `Player Rankings`.
 - Using these 2 metrics, we trained our model using these 3 metrics: `Plus-Minus Per Min`, `Player Ratings` and `Player Rankings`, to identify the worst performing player in the team in a particular season.
-- **Models Used:**
+- **Choice of Models:**
   - **Isolation Forrest:** Works by building a random forest of decision trees, where each tree isolates a small number of points from the rest of the data. Anomalies are identified as data points that require fewer partitions to be isolated.
   - **One Class Support Vector Machine:** Finds a hyperplane that encloses as many normal data points as possible while excluding the rest of the data points.
   During training, the model learns the parameters of the hyperplane using only normal data points. During testing, data points that fall outside the hyperplane are considered anomalous. Useful when dealing with high-dimensional data and when the anomalies are rare and difficult to detect using other methods.
