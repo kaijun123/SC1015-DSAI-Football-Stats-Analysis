@@ -12,8 +12,8 @@
 - [Problem Statement 🚨](#problem-statement-)
 - [Approach ⚙️](#approach-️)
 - [Introduction to Codebase 🖥️](#introduction-to-codebase-️)
-    - [Anomaly\_Detection](#anomaly_detection)
     - [Player\_Valuation](#player_valuation)
+    - [Anomaly\_Detection](#anomaly_detection)
     - [Video Presentation](#video-presentation)
     - [Slides](#slides)
     - [Assets](#assets)
@@ -71,14 +71,6 @@ The additonal revenue earned can then be used to improve club facilities or impr
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=This%20Project's%20Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=python,python,auto;tensorflow,tensorflow,auto;&line2=pandas,pandas,auto;numpy,numpy,auto;scikitlearn,scikit%20learn,auto;&line3=git,git,auto;github,github,auto;jupyter,jupyter,auto;googlecolab,colab,auto;" alt="My Tech Stack" />
 </div>
 
-### Anomaly_Detection
-- This segment contains code to identify the worst performing players within the team per season.
-- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [Sofifa](https://sofifa.com/)
-- Using data from FbRef, we calculated the `Plus-Minus Per Min`. The formula is given as follows: 
-`Plus-Minus Per Min = (Goals scored by own team - Goals scored by opponent team) / Playing Time per player`
-- Using the data from Sofifa, we obtained the `Player Rankings`.
-- Using these 2 metrics, we trained our model using these 2 metrics: `Plus-Minus Per Min` and `Player Rankings`, to identify the worst performing player in the team in a particular season.
-
 ### Player_Valuation
 - This segment contains code to predict a player's `Current Valuation`.
 - Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
@@ -86,6 +78,31 @@ The additonal revenue earned can then be used to improve club facilities or impr
 - Models that were tested were Random Forest Regressor, Support Vector Regressor, Gradient Boosting and Artificial Neural Network
 - Using these 2 collection of data, we trained each model to be able to predict a player's `Current Valuation`, based on the player's current stats.
 - Calcuated evaluation matrix's for each model such as RMSE, MAE and R^2
+- **Choice of Models:**
+  - **Random Forest Regressor:** Builds multiple decisions trees and combines their predictions to make more accurate predictions. Useful when dealing with high-dimensional datasets and non-linear relationships between variables.
+  - **Support Vector Regressor:** Finds a best-fit hyperplane that best represents the data points, with the goal of minimizing the error between the predicted and actual values. Useful when dealing with non-linear datasets
+  - **XGBoost (Gradient Boosting):** Builds decision trees sequentially such that each new decision tree created corrects mistakes made by the previous. Capable of handling complex, nonlinear relationships between variables.
+  - **Artificial Neural Network:** Makes use of multiple layers of neurons, with each neuron having an associated set of weights and biases. These weights and biases are updated for every batch of data fed in, via a technique known as backpropagation. 
+- **Explanation for choice of models**:
+  - Since our dataset comprises of many different factors with yet unknown relationship with the player's `Current Valuation`, we deliberately chose models that are capable of dealing with the large number of factors and non-linear relationships. This is in comparison to using models that assume linear relationships, such as Linear Regression.
+  - In addition, the models were chosen as they function on different fundamental principles, to provide a range of different regressions paradigms. By using range of models, we hoped to be able to find the best performing one.
+
+### Anomaly_Detection
+- This segment contains code to identify the worst performing players within the team per season.
+- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [Sofifa](https://sofifa.com/)
+- Using data from FbRef, we calculated the `Plus-Minus Per Min`. The formula is given as follows: 
+`Plus-Minus Per Min = (Goals scored by own team - Goals scored by opponent team) / Playing Time per player`
+- Using the data from Sofifa, we obtained the `Player Ratings`, `Player Rankings`.
+- Using these 2 metrics, we trained our model using these 3 metrics: `Plus-Minus Per Min`, `Player Ratings` and `Player Rankings`, to identify the worst performing player in the team in a particular season.
+- **Models Used:**
+  - **Isolation Forrest:** Works by building a random forest of decision trees, where each tree isolates a small number of points from the rest of the data. Anomalies are identified as data points that require fewer partitions to be isolated.
+  - **One Class Support Vector Machine:** Finds a hyperplane that encloses as many normal data points as possible while excluding the rest of the data points.
+  During training, the model learns the parameters of the hyperplane using only normal data points. During testing, data points that fall outside the hyperplane are considered anomalous. Useful when dealing with high-dimensional data and when the anomalies are rare and difficult to detect using other methods.
+  - **SGD One Class Support Vector Machine:** A variant of the One Class SVM algorithm that uses stochastic gradient descent for training. Stochastic gradient descent increases the efficiency and scalability of model training by updating the model parameters based on a small random subset of the data.
+  - **Deep AutoEncoder:** A variant of the conventional ANN, which uses an encoder to reduce the the dimensionality of the data, and then reconstructs the 
+  original input from the lower dimensional data via a decoder. The neural network will be trained on normal data. When applied on anomalous data, it will face difficulties trying to reconstruct these data, and these anomalies can thus be separated by their higher reconstruction error.
+- **Explanation for choice of models**:
+  - In our particular context, we are trying to identify isolated anomalies in the Manchester United players' performance. These models chosen are suitable for use in determining isolated anomalies.
 
 ### Video Presentation
 - This folder contains our video presentation.
