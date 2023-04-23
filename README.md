@@ -75,7 +75,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 ### Player_Valuation
 - This segment contains code to predict a player's `Current Valuation`.
-- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
+- Data used is obtained from scraping [FbRef](https://fbref.com/en/) and [kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv)
 - Data used include `Players' Stats`, such as height, age, etc, and `Players' Past Transaction Amount`.
 - Models that were tested were Random Forest Regressor, Support Vector Regressor, Gradient Boosting and Artificial Neural Network
 - Using these 2 collection of data, we trained each model to be able to predict a player's `Current Valuation`, based on the player's current stats.
@@ -91,7 +91,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 ### Anomaly_Detection
 - This segment contains code to identify the worst performing players within the team per season.
-- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [Sofifa](https://sofifa.com/)
+- Data used is obtained from scraping [FbRef](https://fbref.com/en/) and [Sofifa](https://sofifa.com/)
 - Using data from FbRef, we calculated the `Plus-Minus Per Min`. The formula is given as follows: 
 `Plus-Minus Per Min = (Goals scored by own team - Goals scored by opponent team) / Playing Time per player`
 - Using the data from Sofifa, we obtained the `Player Ratings`, `Player Rankings`.
@@ -108,7 +108,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 **Choice of Metrics**
 - **RMSE:** Root mean squared error (RMSE) is a commonly used metric to evaluate the performance of a regression model. It is calculated as the square root of the mean of the squared differences between predicted and true values of the target variable.Unlike some other metrics that only provide information about the direction of the errors (i.e., whether they are positive or negative), RMSE provides information about the magnitude of the errors. This can be useful in our application as we are looking at player valuation and thus need to know in greater detail about the error from the model rather than if it is just higher or lower than the true value
-- **MAE** Mean Absolute Error (MAE) is a commonly used metric to evaluate the performance of regression models. It measures the average absolute difference between the predicted and actual values of the target variable.MAE treats all errors equally, regardless of their magnitude, which can make it more robust to outliers, making it useful failsafe in the case where we discover that we still have too many outliers in our dataset.
+- **MAE** Mean Absolute Error (MAE) is a commonly used metric to evaluate the performance of regression models. It measures the average absolute difference between the predicted and actual values of the target variable. MAE treats all errors equally, regardless of their magnitude, which can make it more robust to outliers, making it useful failsafe in the case where we discover that we still have too many outliers in our dataset.
 - **R^2** R-squared (R²) is a statistical metric that measures the proportion of variation in the target variable that is explained by the regression model. It is also known as the coefficient of determination. R² values range from 0 to 1, with a value of 1 indicating that the model explains all the variability in the target variable and a value of 0 indicating that the model explains none of the variability.R² is a good indicator for our project due to it being a bounded and standardized measure, which makes it easy to interpret as we can easily tell at first glance which model outperforms the other. If we were to instead compare between RMSE or MAE, the results could be in differing magnitudes and we would additionally have to look a the true market value for each player to determine the accuracy of the model. Thus R² can be used to compare the performance of different models and select the one that performs the best. 
 
 ### Slides
