@@ -1,8 +1,8 @@
-# SC1015 Data Science and Analytics Project - Football Analytics ⚽
+# SC1015 Data Science and Analytics Project - OPTIMU Analytics ⚽
 
 ![Cover](Assets/cover.png)
 # Table of Contents 🛎️
-- [SC1015 Data Science and Analytics Project - Football Analytics ⚽](#sc1015-data-science-and-analytics-project---football-analytics-)
+- [SC1015 Data Science and Analytics Project - OPTIMU Analytics ⚽](#sc1015-data-science-and-analytics-project---optimu-analytics-)
 - [Table of Contents 🛎️](#table-of-contents-️)
 - [Repository Structure 🧬](#repository-structure-)
 - [Current Problems 🤔](#current-problems-)
