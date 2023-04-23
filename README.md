@@ -5,6 +5,7 @@
 - [SC1015 Data Science and Analytics Project - OPTIMU Analytics ⚽](#sc1015-data-science-and-analytics-project---optimu-analytics-)
 - [Table of Contents 🛎️](#table-of-contents-️)
 - [Repository Structure 🧬](#repository-structure-)
+- [Video Presentation](#video-presentation)
 - [Current Problems 🤔](#current-problems-)
     - [**1. Poor Business Management**](#1-poor-business-management)
     - [**2. Managerial Instability**](#2-managerial-instability)
@@ -14,7 +15,6 @@
 - [Introduction to Codebase 🖥️](#introduction-to-codebase-️)
     - [Player\_Valuation](#player_valuation)
     - [Anomaly\_Detection](#anomaly_detection)
-    - [Video Presentation](#video-presentation)
     - [Slides](#slides)
     - [Assets](#assets)
 - [Contributors 👨‍💻](#contributors-)
@@ -25,18 +25,20 @@
 ├── README.md
 ├── Anomaly_Detection
 │   ├── data
-│   ├── fbref_data                 # Data from Fbref
-│   ├── sofifa_data                # Data from Sofifa
+│   ├── fbref_data                      # Data from Fbref
+│   ├── sofifa_data                     # Data from Sofifa
 │   └── anomaly_detection.ipynb         # Notebook for anomaly detection
 │
 ├── Player_Valuation
 │   ├── Data                            # Data from Fbref and collated data from kaggle
 │   └── player_valuation.ipynb          # Notebook for player valuation
 │
-├── Video Presentation
 └── Slides
 └── Assets
 ```
+
+# Video Presentation
+- Our presentation video can be found on [Youtube](https://youtu.be/W5Y23JzVQP4)
 
 # Current Problems 🤔
 ### **1. Poor Business Management**
@@ -108,8 +110,6 @@ The additonal revenue earned can then be used to improve club facilities or impr
 - **RMSE:** Root mean squared error (RMSE) is a commonly used metric to evaluate the performance of a regression model. It is calculated as the square root of the mean of the squared differences between predicted and true values of the target variable.Unlike some other metrics that only provide information about the direction of the errors (i.e., whether they are positive or negative), RMSE provides information about the magnitude of the errors. This can be useful in our application as we are looking at player valuation and thus need to know in greater detail about the error from the model rather than if it is just higher or lower than the true value
 - **MAE** Mean Absolute Error (MAE) is a commonly used metric to evaluate the performance of regression models. It measures the average absolute difference between the predicted and actual values of the target variable.MAE treats all errors equally, regardless of their magnitude, which can make it more robust to outliers, making it useful failsafe in the case where we discover that we still have too many outliers in our dataset.
 - **R^2** R-squared (R²) is a statistical metric that measures the proportion of variation in the target variable that is explained by the regression model. It is also known as the coefficient of determination. R² values range from 0 to 1, with a value of 1 indicating that the model explains all the variability in the target variable and a value of 0 indicating that the model explains none of the variability.R² is a good indicator for our project due to it being a bounded and standardized measure, which makes it easy to interpret as we can easily tell at first glance which model outperforms the other. If we were to instead compare between RMSE or MAE, the results could be in differing magnitudes and we would additionally have to look a the true market value for each player to determine the accuracy of the model. Thus R² can be used to compare the performance of different models and select the one that performs the best. 
-### Video Presentation
-- This folder contains our video presentation.
 
 ### Slides
 - This folder contains our slides for our project.
