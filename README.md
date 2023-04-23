@@ -25,8 +25,8 @@
 ├── README.md
 ├── Anomaly_Detection
 │   ├── data
-│   │    ├── fbref_data                 # Data from Fbref
-│   │    └── sofifa_data                # Data from Sofifa
+│   ├── fbref_data                 # Data from Fbref
+│   ├── sofifa_data                # Data from Sofifa
 │   └── anomaly_detection.ipynb         # Notebook for anomaly detection
 │
 ├── Player_Valuation
