@@ -91,7 +91,7 @@ The additonal revenue earned can then be used to improve club facilities or impr
 
 ### Anomaly_Detection
 - This segment contains code to identify the worst performing players within the team per season.
-- Data used is obtained from scraping [FbRef]('https://fbref.com/en/') and [Sofifa](https://sofifa.com/)
+- Data used is obtained from scraping [FbRef](https://fbref.com/en/) and [Sofifa](https://sofifa.com/)
 - Using data from FbRef, we calculated the `Plus-Minus Per Min`. The formula is given as follows: 
 `Plus-Minus Per Min = (Goals scored by own team - Goals scored by opponent team) / Playing Time per player`
 - Using the data from Sofifa, we obtained the `Player Ratings`, `Player Rankings`.
